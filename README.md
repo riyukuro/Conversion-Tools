@@ -16,3 +16,7 @@ Converts a legacy Tachiyomi backup to a Hakuneko database file. NOTE: Some sourc
   - *Note: From my expierence only the key connector's name matters. However this may cause issues elsewhere.*
 - After you finish editing the file you can find the location of the hakuneko config folder at https://hakuneko.download/docs/install/#user-data and then you can move and replace your existing `hakuneko.bookmarks`
   - **NOTE:** *Anything inside of your pre-existing bookmarks file will be lost if you replace it. You can move the file to somewhere else or add .backup at the end of the name to keep it.*
+
+# Todo:
+- Find 80% confidence matches for sources and confirm with the user before writing, (Additionally if incorrect take a user input)
+- Cleanup mess
