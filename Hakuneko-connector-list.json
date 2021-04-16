@@ -1,3662 +1,918 @@
 [
-    {
-        "Connector": "kakaopage",
-        "Key": "kakaopage"
-    },
-    {
-        "Connector": "ManHuaFen",
-        "Key": "manhuafen"
-    },
-    {
-        "Connector": "ComicEarthStar",
-        "Key": "comicearthstar"
-    },
-    {
-        "Connector": "ManHua517",
-        "Key": "517mh"
-    },
-    {
-        "Connector": "RawMangaUpdate",
-        "Key": "rawmangaupdate"
-    },
-    {
-        "Connector": "Gntai",
-        "Key": "gntai"
-    },
-    {
-        "Connector": "NekoBreakerScan",
-        "Key": "nekobreakerscan"
-    },
-    {
-        "Connector": "HastaTeamDDT",
-        "Key": "hastateamddt"
-    },
-    {
-        "Connector": "LuxyScans",
-        "Key": "luxyscans"
-    },
-    {
-        "Connector": "OtakuSekaiScan",
-        "Key": "otakusekaiscan"
-    },
-    {
-        "Connector": "MangaBat",
-        "Key": "mangabat"
-    },
-    {
-        "Connector": "DiamondFansub",
-        "Key": "diamondfansub"
-    },
-    {
-        "Connector": "XianMan123",
-        "Key": "xianman123"
-    },
-    {
-        "Connector": "NeoProjectScans",
-        "Key": "neoprojectscans"
-    },
-    {
-        "Connector": "BlogTruyen",
-        "Key": "blogtruyen"
-    },
-    {
-        "Connector": "MangaGecesi",
-        "Key": "mangagecesi"
-    },
-    {
-        "Connector": "CatTranslator",
-        "Key": "cat-translator"
-    },
-    {
-        "Connector": "PornComix",
-        "Key": "porncomix"
-    },
-    {
-        "Connector": "MangaKakalotFun",
-        "Key": "mangakakalotfun"
-    },
-    {
-        "Connector": "PhenomenalNoFansub",
-        "Key": "phenomenalnofansub"
-    },
-    {
-        "Connector": "LineWebtoonES",
-        "Key": "linewebtoon-es"
-    },
-    {
-        "Connector": "MethodScans",
-        "Key": "methodscans"
-    },
-    {
-        "Connector": "AstralLibrary",
-        "Key": "astrallibrary"
-    },
-    {
-        "Connector": "MuchoHentai",
-        "Key": "muchohentai"
-    },
-    {
-        "Connector": "ManyToonKR",
-        "Key": "manytoonkr"
-    },
-    {
-        "Connector": "SkyMangas",
-        "Key": "skymangas"
-    },
-    {
-        "Connector": "TenManga",
-        "Key": "tenmanga"
-    },
-    {
-        "Connector": "EpikManga",
-        "Key": "epikmanga"
-    },
-    {
-        "Connector": "Tsumino",
-        "Key": "tsumino"
-    },
-    {
-        "Connector": "Madokami",
-        "Key": "madokami"
-    },
-    {
-        "Connector": "MangaEighteenUS",
-        "Key": "manga18-us"
-    },
-    {
-        "Connector": "AniRune",
-        "Key": "anirune"
-    },
-    {
-        "Connector": "MangaGenki",
-        "Key": "mangagenki"
-    },
-    {
-        "Connector": "FenixScan",
-        "Key": "fenixscan"
-    },
-    {
-        "Connector": "RoseliaScanlations",
-        "Key": "roseliascanlations"
-    },
-    {
-        "Connector": "MangaSusuReborn",
-        "Key": "mangasusureborn"
-    },
-    {
-        "Connector": "Russification",
-        "Key": "russification"
-    },
-    {
-        "Connector": "Kaguyadex",
-        "Key": "kaguyadex"
-    },
-    {
-        "Connector": "UraSunday",
-        "Key": "urasunday"
-    },
-    {
-        "Connector": "JapitComics",
-        "Key": "japitcomics"
-    },
-    {
-        "Connector": "MyReadingManga",
-        "Key": "myreadingmanga"
-    },
-    {
-        "Connector": "MangaZukiSite",
-        "Key": "mangazuki-site"
-    },
-    {
-        "Connector": "PocketAngelScans",
-        "Key": "pocketangelscans"
-    },
-    {
-        "Connector": "TimelessLeaf",
-        "Key": "timelessleaf"
-    },
-    {
-        "Connector": "MangaTR",
-        "Key": "mangatr"
-    },
-    {
-        "Connector": "HeroScan",
-        "Key": "heroscan"
-    },
-    {
-        "Connector": "QueensManga",
-        "Key": "queensmanga"
-    },
-    {
-        "Connector": "MangaInn",
-        "Key": "mangainn"
-    },
-    {
-        "Connector": "PowerManga",
-        "Key": "powermanga"
-    },
-    {
-        "Connector": "ReadManhua",
-        "Key": "readmanhua"
-    },
-    {
-        "Connector": "HentaiRead",
-        "Key": "hentairead"
-    },
-    {
-        "Connector": "MangaTitan",
-        "Key": "mangatitan"
-    },
-    {
-        "Connector": "Shqqaa",
-        "Key": "shqqaa"
-    },
-    {
-        "Connector": "MintManga",
-        "Key": "mintmanga"
-    },
-    {
-        "Connector": "LineWebtoonEN",
-        "Key": "linewebtoon-en"
-    },
-    {
-        "Connector": "SakuraFansub",
-        "Key": "sakurafansub"
-    },
-    {
-        "Connector": "NightComic",
-        "Key": "nightcomic"
-    },
-    {
-        "Connector": "PiedPiper",
-        "Key": "piedpiperfb"
-    },
-    {
-        "Connector": "MangaWorld",
-        "Key": "mangaworld"
-    },
-    {
-        "Connector": "LineWebtoonFR",
-        "Key": "linewebtoon-fr"
-    },
-    {
-        "Connector": "HScans",
-        "Key": "hscans"
-    },
-    {
-        "Connector": "HakaiScan",
-        "Key": "hakaiscan"
-    },
-    {
-        "Connector": "MuchoDoujins",
-        "Key": "muchodoujins"
-    },
-    {
-        "Connector": "WutopiaComics",
-        "Key": "wutopiacomics"
-    },
-    {
-        "Connector": "Mangatellers",
-        "Key": "mangatellers"
-    },
-    {
-        "Connector": "NineMangaRU",
-        "Key": "ninemanga-ru"
-    },
-    {
-        "Connector": "Ngomik",
-        "Key": "ngomik"
-    },
-    {
-        "Connector": "MangaNT",
-        "Key": "mangant"
-    },
-    {
-        "Connector": "UnionMangas",
-        "Key": "unionmangas"
-    },
-    {
-        "Connector": "TruyenTranhLH",
-        "Key": "truyentranhlh"
-    },
-    {
-        "Connector": "DropeScanSensainaYuri",
-        "Key": "sensainayuri"
-    },
-    {
-        "Connector": "ApollToons",
-        "Key": "apolltoons"
-    },
-    {
-        "Connector": "TuMangaOnlineFun",
-        "Key": "tumangaonlinefun"
-    },
-    {
-        "Connector": "NineAnime",
-        "Key": "9anime"
-    },
-    {
-        "Connector": "MangaTube",
-        "Key": "mangatube"
-    },
-    {
-        "Connector": "KlanKomik",
-        "Key": "klankomik"
-    },
-    {
-        "Connector": "WBNovel",
-        "Key": "wbnovel"
-    },
-    {
-        "Connector": "DragonTranslation",
-        "Key": "dragontranslation"
-    },
-    {
-        "Connector": "GammaPlus",
-        "Key": "gammaplus"
-    },
-    {
-        "Connector": "Manga99",
-        "Key": "manga99"
-    },
-    {
-        "Connector": "NeuManga",
-        "Key": "neumanga"
-    },
-    {
-        "Connector": "MangaGreat",
-        "Key": "mangagreat"
-    },
-    {
-        "Connector": "ManHua36",
-        "Key": "36manhua"
-    },
-    {
-        "Connector": "YouBaMangaNext",
-        "Key": "youbamanganext"
-    },
-    {
-        "Connector": "NovelCoolDE",
-        "Key": "novelcool-de"
-    },
-    {
-        "Connector": "Genkan",
-        "Key": "genkan"
-    },
-    {
-        "Connector": "Futabanet",
-        "Key": "futabanet"
-    },
-    {
-        "Connector": "Aloalivn",
-        "Key": "aloalivn"
-    },
-    {
-        "Connector": "MangaToonCN",
-        "Key": "mangatoon-cn"
-    },
-    {
-        "Connector": "KrakenScans",
-        "Key": "krakenscans"
-    },
-    {
-        "Connector": "IskultripScans",
-        "Key": "iskultripscans"
-    },
-    {
-        "Connector": "MangaWT",
-        "Key": "mangawt"
-    },
-    {
-        "Connector": "MangaSee",
-        "Key": "mangasee"
-    },
-    {
-        "Connector": "MangaDoom",
-        "Key": "mangadoom"
-    },
-    {
-        "Connector": "SpotToon",
-        "Key": "spottoon"
-    },
-    {
-        "Connector": "Submanga",
-        "Key": "submanga"
-    },
-    {
-        "Connector": "TheTopComic",
-        "Key": "thetopcomic"
-    },
-    {
-        "Connector": "FunList",
-        "Key": "funlist"
-    },
-    {
-        "Connector": "MangaTownOnline",
-        "Key": "mangatownonline"
-    },
-    {
-        "Connector": "TruyenChon",
-        "Key": "truyenchon"
-    },
-    {
-        "Connector": "IMHentai",
-        "Key": "imhentai"
-    },
-    {
-        "Connector": "ReadComicsOnline",
-        "Key": "readcomicsonline"
-    },
-    {
-        "Connector": "ShinzooScans",
-        "Key": "shinzooscans"
-    },
-    {
-        "Connector": "MangaMx",
-        "Key": "mangamx"
-    },
-    {
-        "Connector": "GoldenMangas",
-        "Key": "goldenmangas"
-    },
-    {
-        "Connector": "ShonenMagazine",
-        "Key": "shonenmagazine"
-    },
-    {
-        "Connector": "MangaichiScans",
-        "Key": "mangaichiscans"
-    },
-    {
-        "Connector": "MangaRomance",
-        "Key": "mangaromance"
-    },
-    {
-        "Connector": "MangaRaw",
-        "Key": "mangaraw"
-    },
-    {
-        "Connector": "MangaDenizi",
-        "Key": "mangadenizi"
-    },
-    {
-        "Connector": "ToomicsSC",
-        "Key": "toomics-sc"
-    },
-    {
-        "Connector": "MiracleScans",
-        "Key": "miraclescans"
-    },
-    {
-        "Connector": "MangaFoxFun",
-        "Key": "mangafoxfun"
-    },
-    {
-        "Connector": "lovablesubs",
-        "Key": "lovablesubs"
-    },
-    {
-        "Connector": "ManhwaHand",
-        "Key": "manhwahand"
-    },
-    {
-        "Connector": "GoldenManga",
-        "Key": "goldenmanga"
-    },
-    {
-        "Connector": "YaoiChan",
-        "Key": "yaoichan"
-    },
-    {
-        "Connector": "PsychoPlay",
-        "Key": "psychoplay"
-    },
-    {
-        "Connector": "Bx117",
-        "Key": "bx117"
-    },
-    {
-        "Connector": "mavimanga",
-        "Key": "mavimanga"
-    },
-    {
-        "Connector": "SeinagiFansubES",
-        "Key": "seinagifansub-es"
-    },
-    {
-        "Connector": "MangaTail",
-        "Key": "mangatail"
-    },
-    {
-        "Connector": "MangaZukiClub",
-        "Key": "mangazuki-club"
-    },
-    {
-        "Connector": "TwistedHelScans",
-        "Key": "twistedhelscans"
-    },
-    {
-        "Connector": "ScanOP",
-        "Key": "scanop"
-    },
-    {
-        "Connector": "MangaHub",
-        "Key": "mangahub"
-    },
-    {
-        "Connector": "KuManga",
-        "Key": "kumanga"
-    },
-    {
-        "Connector": "kuaikanmanhua",
-        "Key": "kuaikanmanhua"
-    },
-    {
-        "Connector": "KoMBatch",
-        "Key": "kombatch"
-    },
-    {
-        "Connector": "OneShotScans",
-        "Key": "oneshotscans"
-    },
-    {
-        "Connector": "TvYManga",
-        "Key": "tvymanga"
-    },
-    {
-        "Connector": "MabushiMajo",
-        "Key": "mabushimajo"
-    },
-    {
-        "Connector": "RawDevart",
-        "Key": "rawdevart"
-    },
-    {
-        "Connector": "MangajinNoFansub",
-        "Key": "mangajinnofansub"
-    },
-    {
-        "Connector": "ReadHentai",
-        "Key": "readhentai"
-    },
-    {
-        "Connector": "WordRain",
-        "Key": "wordrain"
-    },
-    {
-        "Connector": "MangasOrigines",
-        "Key": "mangasorigines"
-    },
-    {
-        "Connector": "AzoraManga",
-        "Key": "azoramanga"
-    },
-    {
-        "Connector": "MangaShip",
-        "Key": "mangaship"
-    },
-    {
-        "Connector": "OlhoDaLua",
-        "Key": "olhodalua"
-    },
-    {
-        "Connector": "KomikSave",
-        "Key": "komiksave"
-    },
-    {
-        "Connector": "ReadMangaTV",
-        "Key": "readmangatv"
-    },
-    {
-        "Connector": "TopToon",
-        "Key": "toptoon"
-    },
-    {
-        "Connector": "KumaManga",
-        "Key": "kumamanga"
-    },
-    {
-        "Connector": "WanPaMan",
-        "Key": "wanpaman"
-    },
-    {
-        "Connector": "ComicExtra",
-        "Key": "comicextra"
-    },
-    {
-        "Connector": "ChiOtaku",
-        "Key": "chiotaku"
-    },
-    {
-        "Connector": "Manga365",
-        "Key": "365manga"
-    },
-    {
-        "Connector": "YugenMangas",
-        "Key": "yugenmangas"
-    },
-    {
-        "Connector": "ManHuaDex",
-        "Key": "manhuadex"
-    },
-    {
-        "Connector": "ShueishaMangaPlus",
-        "Key": "shueishamangaplus"
-    },
-    {
-        "Connector": "VerMangasPorno",
-        "Key": "vermangasporno"
-    },
-    {
-        "Connector": "WakaScan",
-        "Key": "wakascan"
-    },
-    {
-        "Connector": "GoddessManga",
-        "Key": "goddessmanga"
-    },
-    {
-        "Connector": "MangaLink",
-        "Key": "mangalink"
-    },
-    {
-        "Connector": "ArazNovel",
-        "Key": "araznovel"
-    },
-    {
-        "Connector": "HeavenManga2",
-        "Key": "heavenmanga2"
-    },
-    {
-        "Connector": "AMAScan",
-        "Key": "amascan"
-    },
-    {
-        "Connector": "LoveHug",
-        "Key": "lovehug"
-    },
-    {
-        "Connector": "SekaiKomik",
-        "Key": "sekaikomik"
-    },
-    {
-        "Connector": "ZinManga",
-        "Key": "zinmanga"
-    },
-    {
-        "Connector": "ExHentai",
-        "Key": "exhentai"
-    },
-    {
-        "Connector": "StoriaDash",
-        "Key": "storiadash"
-    },
-    {
-        "Connector": "Komikru",
-        "Key": "komikru"
-    },
-    {
-        "Connector": "U17",
-        "Key": "useventeen"
-    },
-    {
-        "Connector": "Manhwaland",
-        "Key": "manhwaland"
-    },
-    {
-        "Connector": "EightMuses",
-        "Key": "8muses"
-    },
-    {
-        "Connector": "TopComicPorno",
-        "Key": "topcomicporno"
-    },
-    {
-        "Connector": "MangaYosh",
-        "Key": "mangayosh"
-    },
-    {
-        "Connector": "OnePunchMan",
-        "Key": "onepunchman"
-    },
-    {
-        "Connector": "BookLive",
-        "Key": "booklive"
-    },
-    {
-        "Connector": "WebNovel",
-        "Key": "webnovel"
-    },
-    {
-        "Connector": "MangaLib",
-        "Key": "mangalib"
-    },
-    {
-        "Connector": "MangaStreamToday",
-        "Key": "mangastreamtoday"
-    },
-    {
-        "Connector": "ToomicsKO",
-        "Key": "toomics-ko"
-    },
-    {
-        "Connector": "YokaiJump",
-        "Key": "yokaijump"
-    },
-    {
-        "Connector": "MangaZukimobi",
-        "Key": "mangazukimobi"
-    },
-    {
-        "Connector": "HniScanTrad",
-        "Key": "hniscantrad"
-    },
-    {
-        "Connector": "MundoWuxia",
-        "Key": "mundowuxia"
-    },
-    {
-        "Connector": "YaoiIsLife",
-        "Key": "yaoiislife"
-    },
-    {
-        "Connector": "GuruKomik",
-        "Key": "gurukomik"
-    },
-    {
-        "Connector": "AsmHentai",
-        "Key": "asmhentai"
-    },
-    {
-        "Connector": "DarkSkyProjects",
-        "Key": "darkskyprojects"
-    },
-    {
-        "Connector": "Funbe",
-        "Key": "funbe"
-    },
-    {
-        "Connector": "MangaCross",
-        "Key": "mangacross"
-    },
-    {
-        "Connector": "ForgottenScans",
-        "Key": "forgottenscans"
-    },
-    {
-        "Connector": "DoujinHentai",
-        "Key": "doujinhentai"
-    },
-    {
-        "Connector": "Nekomik",
-        "Key": "nekomik"
-    },
-    {
-        "Connector": "ManHuaGui",
-        "Key": "manhuagui"
-    },
-    {
-        "Connector": "NineHentai",
-        "Key": "9hentai"
-    },
-    {
-        "Connector": "TsubasaSociety",
-        "Key": "tsubasasociety"
-    },
-    {
-        "Connector": "Tempestfansub",
-        "Key": "tempestfansub"
-    },
-    {
-        "Connector": "MangaIndoWeb",
-        "Key": "mangaindoweb"
-    },
-    {
-        "Connector": "MaID",
-        "Key": "maid"
-    },
-    {
-        "Connector": "MangaKatana",
-        "Key": "mangakatana"
-    },
-    {
-        "Connector": "NovelCoolES",
-        "Key": "novelcool-es"
-    },
-    {
-        "Connector": "Ohtabooks",
-        "Key": "ohtabooks"
-    },
-    {
-        "Connector": "MangaForAll",
-        "Key": "mangaforall"
-    },
-    {
-        "Connector": "ComicClear",
-        "Key": "comicclear"
-    },
-    {
-        "Connector": "MangaToonVI",
-        "Key": "mangatoon-vi"
-    },
-    {
-        "Connector": "jpm1234",
-        "Key": "jpm1234"
-    },
-    {
-        "Connector": "Mexat",
-        "Key": "mexat"
-    },
-    {
-        "Connector": "ManhwasNet",
-        "Key": "manhwasnet"
-    },
-    {
-        "Connector": "MangaShow",
-        "Key": "mangashow"
-    },
-    {
-        "Connector": "ScanlatorHunters",
-        "Key": "scanlatorhunters"
-    },
-    {
-        "Connector": "MangaRocky",
-        "Key": "mangarocky"
-    },
-    {
-        "Connector": "ManhuaTai",
-        "Key": "manhuatai"
-    },
-    {
-        "Connector": "WebtoonTR",
-        "Key": "webtoontr"
-    },
-    {
-        "Connector": "LELScanVF",
-        "Key": "lelscanvf"
-    },
-    {
-        "Connector": "ManhwaLatino",
-        "Key": "manhwalatino"
-    },
-    {
-        "Connector": "AkuManga",
-        "Key": "akumanga"
-    },
-    {
-        "Connector": "MangaSwat",
-        "Key": "mangaswat"
-    },
-    {
-        "Connector": "WhimSubs",
-        "Key": "whimsubs"
-    },
-    {
-        "Connector": "LezhinEN",
-        "Key": "lezhin-en"
-    },
-    {
-        "Connector": "KnightNoFansub",
-        "Key": "knightnofansub"
-    },
-    {
-        "Connector": "MangaOnlineFun",
-        "Key": "mangaonlinefun"
-    },
-    {
-        "Connector": "DarkYueRealm",
-        "Key": "darkyuerealm"
-    },
-    {
-        "Connector": "MangaOku",
-        "Key": "mangaoku"
-    },
-    {
-        "Connector": "MangaZukiOnline",
-        "Key": "mangazuki-online"
-    },
-    {
-        "Connector": "ToonGod",
-        "Key": "toongod"
-    },
-    {
-        "Connector": "YayuPw",
-        "Key": "yayupw"
-    },
-    {
-        "Connector": "PCNet",
-        "Key": "pcnet"
-    },
-    {
-        "Connector": "ManhuaFast",
-        "Key": "manhuafast"
-    },
-    {
-        "Connector": "SkyManga",
-        "Key": "skymanga"
-    },
-    {
-        "Connector": "HentaiHand",
-        "Key": "hentaihand"
-    },
-    {
-        "Connector": "WoopRead",
-        "Key": "woopread"
-    },
-    {
-        "Connector": "Sa3i9a",
-        "Key": "sa3i9a"
-    },
-    {
-        "Connector": "NhatTruyen",
-        "Key": "nhattruyen"
-    },
-    {
-        "Connector": "AllHentai",
-        "Key": "allhentai"
-    },
-    {
-        "Connector": "ToomicsTC",
-        "Key": "toomics-tc"
-    },
-    {
-        "Connector": "ImperioDosOtakus",
-        "Key": "imperiodosotakus"
-    },
-    {
-        "Connector": "Nightow",
-        "Key": "nightow"
-    },
-    {
-        "Connector": "HappyTeaScans",
-        "Key": "happyteascans"
-    },
-    {
-        "Connector": "FurioScans",
-        "Key": "furioscans"
-    },
-    {
-        "Connector": "ComicZenon",
-        "Key": "comiczenon"
-    },
-    {
-        "Connector": "HentaiHere",
-        "Key": "hentaihere"
-    },
-    {
-        "Connector": "HatigarmScans",
-        "Key": "hatigarmscans"
-    },
-    {
-        "Connector": "ManhuaES",
-        "Key": "manhuaes"
-    },
-    {
-        "Connector": "MangaPark",
-        "Key": "mangapark"
-    },
-    {
-        "Connector": "Hitomi",
-        "Key": "hitomi"
-    },
-    {
-        "Connector": "MangaEdenEN",
-        "Key": "mangaeden-en"
-    },
-    {
-        "Connector": "CarToonMad",
-        "Key": "cartoonmad"
-    },
-    {
-        "Connector": "Daysneo",
-        "Key": "daysneo"
-    },
-    {
-        "Connector": "PornComixOnline",
-        "Key": "porncomixonline"
-    },
-    {
-        "Connector": "ReadRawManga",
-        "Key": "readrawmanga"
-    },
-    {
-        "Connector": "JJutsuScans",
-        "Key": "jjutsuscans"
-    },
-    {
-        "Connector": "SekteKomik",
-        "Key": "sektekomik"
-    },
-    {
-        "Connector": "DoujinDesu",
-        "Key": "doujindesu"
-    },
-    {
-        "Connector": "ManhuaID",
-        "Key": "manhuaid"
-    },
-    {
-        "Connector": "NineMangaEN",
-        "Key": "ninemanga-en"
-    },
-    {
-        "Connector": "MangaAy",
-        "Key": "mangaay"
-    },
-    {
-        "Connector": "NovelFrance",
-        "Key": "novelfrance"
-    },
-    {
-        "Connector": "YuriISM",
-        "Key": "yuriism"
-    },
-    {
-        "Connector": "FRScans",
-        "Key": "frscan"
-    },
-    {
-        "Connector": "YaoiHavenReborn",
-        "Key": "yaoihavenreborn"
-    },
-    {
-        "Connector": "WieManga",
-        "Key": "wiemanga"
-    },
-    {
-        "Connector": "Komiku",
-        "Key": "komiku"
-    },
-    {
-        "Connector": "S2Manga",
-        "Key": "s2manga"
-    },
-    {
-        "Connector": "MangaTown",
-        "Key": "mangatown"
-    },
-    {
-        "Connector": "MangaNeloInfo",
-        "Key": "manganeloinfo"
-    },
-    {
-        "Connector": "Kanjiku",
-        "Key": "kanjiku"
-    },
-    {
-        "Connector": "Mangakyo",
-        "Key": "mangakyo"
-    },
-    {
-        "Connector": "Webmangatr",
-        "Key": "webmangatr"
-    },
-    {
-        "Connector": "AngelOfResistance",
-        "Key": "angelofresistance"
-    },
-    {
-        "Connector": "MangaArab",
-        "Key": "mangaarab"
-    },
-    {
-        "Connector": "TraduccionesAmistosas",
-        "Key": "traduccionesamistosas"
-    },
-    {
-        "Connector": "Guoman8",
-        "Key": "guoman8"
-    },
-    {
-        "Connector": "MilfToon",
-        "Key": "milftoon"
-    },
-    {
-        "Connector": "AnimePahe",
-        "Key": "animepahe"
-    },
-    {
-        "Connector": "ScanVF",
-        "Key": "scanvf"
-    },
-    {
-        "Connector": "LazyBoysScan",
-        "Key": "lazyboysscan"
-    },
-    {
-        "Connector": "ToomicsDE",
-        "Key": "toomics-de"
-    },
-    {
-        "Connector": "MangaTensei",
-        "Key": "mangatensei"
-    },
-    {
-        "Connector": "DongManManhua",
-        "Key": "dongmanmanhua"
-    },
-    {
-        "Connector": "MangarawOnline",
-        "Key": "mangarawonline"
-    },
-    {
-        "Connector": "ElevenToon",
-        "Key": "11toon"
-    },
-    {
-        "Connector": "HastaTeam",
-        "Key": "hastateam"
-    },
-    {
-        "Connector": "SamuraiScan",
-        "Key": "samuraiscan"
-    },
-    {
-        "Connector": "TruyenTranhAudioOnline",
-        "Key": "truyentranhaudioonline"
-    },
-    {
-        "Connector": "MangaDex",
-        "Key": "mangadex"
-    },
-    {
-        "Connector": "SenseScans",
-        "Key": "sensescans"
-    },
-    {
-        "Connector": "ComicMeteor",
-        "Key": "comicmeteor"
-    },
-    {
-        "Connector": "Buka",
-        "Key": "buka"
-    },
-    {
-        "Connector": "KomikIndoWeb",
-        "Key": "komikindoweb"
-    },
-    {
-        "Connector": "Leitor",
-        "Key": "leitor"
-    },
-    {
-        "Connector": "Mangafest",
-        "Key": "mangafest"
-    },
-    {
-        "Connector": "CrazyScans",
-        "Key": "crazyscans"
-    },
-    {
-        "Connector": "MangaDiyari",
-        "Key": "mangadiyari"
-    },
-    {
-        "Connector": "YawarakaSpirits",
-        "Key": "yawarakaspirits"
-    },
-    {
-        "Connector": "KaiManhua",
-        "Key": "kaimanhua"
-    },
-    {
-        "Connector": "MangaReadCO",
-        "Key": "mangareadco"
-    },
-    {
-        "Connector": "Manhuaga",
-        "Key": "manhuaga"
-    },
-    {
-        "Connector": "WantedTeam",
-        "Key": "wantedteam"
-    },
-    {
-        "Connector": "HentaiFox",
-        "Key": "hentaifox"
-    },
-    {
-        "Connector": "ManhwaTime",
-        "Key": "manhwatime"
-    },
-    {
-        "Connector": "Lindovel",
-        "Key": "lindovel"
-    },
-    {
-        "Connector": "LeerManhua",
-        "Key": "leermanhua"
-    },
-    {
-        "Connector": "ComicTrail",
-        "Key": "comictrail"
-    },
-    {
-        "Connector": "LeoManga",
-        "Key": "leomanga"
-    },
-    {
-        "Connector": "Hayalistic",
-        "Key": "hayalistic"
-    },
-    {
-        "Connector": "NitroScans",
-        "Key": "nitroscans"
-    },
-    {
-        "Connector": "KurageBunch",
-        "Key": "kuragebunch"
-    },
-    {
-        "Connector": "Tapread",
-        "Key": "tapread"
-    },
-    {
-        "Connector": "MangaPill",
-        "Key": "mangapill"
-    },
-    {
-        "Connector": "Seven8te",
-        "Key": "78te"
-    },
-    {
-        "Connector": "ReadManhwa",
-        "Key": "readmanhwa"
-    },
-    {
-        "Connector": "HiperCool",
-        "Key": "hipercool"
-    },
-    {
-        "Connector": "MyNovel",
-        "Key": "mynovel"
-    },
-    {
-        "Connector": "Kiryuu",
-        "Key": "kiryuu"
-    },
-    {
-        "Connector": "MangaKita",
-        "Key": "mangakita"
-    },
-    {
-        "Connector": "MangaToonPT",
-        "Key": "mangatoon-pt"
-    },
-    {
-        "Connector": "NineMangaES",
-        "Key": "ninemanga-es"
-    },
-    {
-        "Connector": "VRVHiDive",
-        "Key": "vrv-hidive"
-    },
-    {
-        "Connector": "MangaHentai",
-        "Key": "mangahentai"
-    },
-    {
-        "Connector": "NManhwa",
-        "Key": "nmanhwa"
-    },
-    {
-        "Connector": "FuryoSquad",
-        "Key": "furyosquad"
-    },
-    {
-        "Connector": "AnimExtremist",
-        "Key": "animextremist"
-    },
-    {
-        "Connector": "MangaHispano",
-        "Key": "mangahispano"
-    },
-    {
-        "Connector": "LezhinJA",
-        "Key": "lezhin-ja"
-    },
-    {
-        "Connector": "HeavenManga",
-        "Key": "heavenmanga"
-    },
-    {
-        "Connector": "Alphapolis",
-        "Key": "alphapolis"
-    },
-    {
-        "Connector": "MangaNeloTeam",
-        "Key": "manganeloteam"
-    },
-    {
-        "Connector": "ZeroScans",
-        "Key": "zeroscans"
-    },
-    {
-        "Connector": "MangaRoma",
-        "Key": "mangaroma"
-    },
-    {
-        "Connector": "Ninjavi",
-        "Key": "ninjavi"
-    },
-    {
-        "Connector": "ManyToonCOM",
-        "Key": "manytooncom"
-    },
-    {
-        "Connector": "CentralDeMangas",
-        "Key": "centraldemangas"
-    },
-    {
-        "Connector": "NovelMic",
-        "Key": "novelmic"
-    },
-    {
-        "Connector": "MangaDods",
-        "Key": "mangadods"
-    },
-    {
-        "Connector": "MangaLord",
-        "Key": "mangalord"
-    },
-    {
-        "Connector": "NineMangaIT",
-        "Key": "ninemanga-it"
-    },
-    {
-        "Connector": "FreeComicOnline",
-        "Key": "freecomiconline"
-    },
-    {
-        "Connector": "ShoujoSense",
-        "Key": "shoujosense"
-    },
-    {
-        "Connector": "KomikCast",
-        "Key": "komikcast"
-    },
-    {
-        "Connector": "MangaOnlineBR",
-        "Key": "mangaonlinebr"
-    },
-    {
-        "Connector": "Batoto",
-        "Key": "batoto"
-    },
-    {
-        "Connector": "HoshiNoFansub",
-        "Key": "hoshinofansub"
-    },
-    {
-        "Connector": "LineWebtoonID",
-        "Key": "linewebtoon-id"
-    },
-    {
-        "Connector": "KanMan",
-        "Key": "kanman"
-    },
-    {
-        "Connector": "CopyPasteScan",
-        "Key": "copypastescan"
-    },
-    {
-        "Connector": "MangaWeebs",
-        "Key": "mangaweebs"
-    },
-    {
-        "Connector": "Okamiyomi",
-        "Key": "okamiyomi"
-    },
-    {
-        "Connector": "Mangabaz",
-        "Key": "mangabaz"
-    },
-    {
-        "Connector": "MangaFull",
-        "Key": "mangafull"
-    },
-    {
-        "Connector": "KomikMama",
-        "Key": "komikmama"
-    },
-    {
-        "Connector": "TritiniaScans",
-        "Key": "tritiniascans"
-    },
-    {
-        "Connector": "AkaiYuhiMun",
-        "Key": "akaiyuhimun"
-    },
-    {
-        "Connector": "rawmangatop",
-        "Key": "rawmangatop"
-    },
-    {
-        "Connector": "ReadRawMangaInfo",
-        "Key": "readrawmangainfo"
-    },
-    {
-        "Connector": "GodsRealmScan",
-        "Key": "godsrealmscan"
-    },
-    {
-        "Connector": "WorldThree",
-        "Key": "worldthree"
-    },
-    {
-        "Connector": "AniMangaES",
-        "Key": "animangaes"
-    },
-    {
-        "Connector": "BlackDragonsFansub",
-        "Key": "bdsfansub"
-    },
-    {
-        "Connector": "Shoumanhua",
-        "Key": "shoumanhua"
-    },
-    {
-        "Connector": "Dmzj",
-        "Key": "dmzj"
-    },
-    {
-        "Connector": "MangaZone",
-        "Key": "mangazone"
-    },
-    {
-        "Connector": "MangaChan",
-        "Key": "mangachan"
-    },
-    {
-        "Connector": "WebAce",
-        "Key": "webace"
-    },
-    {
-        "Connector": "MangaLivre",
-        "Key": "mangalivre"
-    },
-    {
-        "Connector": "YamiTenshiNoFansub",
-        "Key": "yamitenshinofansub"
-    },
-    {
-        "Connector": "MangaNetTR",
-        "Key": "manganettr"
-    },
-    {
-        "Connector": "MangaLaw",
-        "Key": "mangalaw"
-    },
-    {
-        "Connector": "WebtoonXYZ",
-        "Key": "webtoonxyz"
-    },
-    {
-        "Connector": "SleepyPandaScans",
-        "Key": "sleepypandascans"
-    },
-    {
-        "Connector": "WhatStatus",
-        "Key": "whatstatus"
-    },
-    {
-        "Connector": "Komikid",
-        "Key": "komikid"
-    },
-    {
-        "Connector": "FlameScansORG",
-        "Key": "flamescans-org"
-    },
-    {
-        "Connector": "OlaoeManga",
-        "Key": "olaoemanga"
-    },
-    {
-        "Connector": "MysticalMerries",
-        "Key": "mysticalmerries"
-    },
-    {
-        "Connector": "ToomicsPT",
-        "Key": "toomics-pt"
-    },
-    {
-        "Connector": "Mangax18",
-        "Key": "mangax18"
-    },
-    {
-        "Connector": "GeassScan",
-        "Key": "geassscan"
-    },
-    {
-        "Connector": "ToonilyNet",
-        "Key": "toonilynet"
-    },
-    {
-        "Connector": "AsuraScans",
-        "Key": "asurascans"
-    },
-    {
-        "Connector": "BacaManga",
-        "Key": "bacamanga"
-    },
-    {
-        "Connector": "MangaZuki",
-        "Key": "mangazuki"
-    },
-    {
-        "Connector": "MangaFox",
-        "Key": "mangafox"
-    },
-    {
-        "Connector": "Manga68",
-        "Key": "manga68"
-    },
-    {
-        "Connector": "YesMangasBR",
-        "Key": "yesmangasbr"
-    },
-    {
-        "Connector": "ArthurScan",
-        "Key": "arthurscan"
-    },
-    {
-        "Connector": "EightMusesXXX",
-        "Key": "8musesxxx"
-    },
-    {
-        "Connector": "ArtemisNoFansub",
-        "Key": "artemisnofansub"
-    },
-    {
-        "Connector": "MangaKakalot",
-        "Key": "mangakakalot"
-    },
-    {
-        "Connector": "ManhwaID",
-        "Key": "manhwaid"
-    },
-    {
-        "Connector": "NekoScan",
-        "Key": "nekoscan"
-    },
-    {
-        "Connector": "Shakai",
-        "Key": "shakai"
-    },
-    {
-        "Connector": "AnimeCenterScan",
-        "Key": "animecenterscan"
-    },
-    {
-        "Connector": "AtmSubs",
-        "Key": "atmsubs"
-    },
-    {
-        "Connector": "LegionAsia",
-        "Key": "legionasia"
-    },
-    {
-        "Connector": "NetEaseComic",
-        "Key": "neteasecomic"
-    },
-    {
-        "Connector": "FunManga",
-        "Key": "funmanga"
-    },
-    {
-        "Connector": "Manga1001",
-        "Key": "manga1001"
-    },
-    {
-        "Connector": "SoftKomik",
-        "Key": "softkomik"
-    },
-    {
-        "Connector": "HenChan",
-        "Key": "henchan"
-    },
-    {
-        "Connector": "MangaKakalots",
-        "Key": "mangakakalots"
-    },
-    {
-        "Connector": "IchirinNoHanaYuri",
-        "Key": "ichirinnohanayuri"
-    },
-    {
-        "Connector": "YaoiToshokan",
-        "Key": "yaoitoshokan"
-    },
-    {
-        "Connector": "LineWebtoonTranslate",
-        "Key": "linewebtoon-translate"
-    },
-    {
-        "Connector": "WebtoonHatti",
-        "Key": "webtoonhatti"
-    },
-    {
-        "Connector": "RuyaManga",
-        "Key": "ruyamanga"
-    },
-    {
-        "Connector": "NewToki",
-        "Key": "newtoki"
-    },
-    {
-        "Connector": "MangaRead",
-        "Key": "mangaread"
-    },
-    {
-        "Connector": "MangaFort",
-        "Key": "mangafort"
-    },
-    {
-        "Connector": "MangaHereFun",
-        "Key": "mangaherefun"
-    },
-    {
-        "Connector": "DisasterScans",
-        "Key": "disasterscans"
-    },
-    {
-        "Connector": "ComicsValley",
-        "Key": "comicsvalley"
-    },
-    {
-        "Connector": "WuxiaWorld",
-        "Key": "wuxiaworld"
-    },
-    {
-        "Connector": "ModeScanlator",
-        "Key": "modescanlator"
-    },
-    {
-        "Connector": "MangaLike",
-        "Key": "mangalike"
-    },
-    {
-        "Connector": "Doujins",
-        "Key": "doujins"
-    },
-    {
-        "Connector": "NazarickScans",
-        "Key": "nazarickscans"
-    },
-    {
-        "Connector": "ValhallaScans",
-        "Key": "valhallascans"
-    },
-    {
-        "Connector": "ApollComics",
-        "Key": "apollcomics"
-    },
-    {
-        "Connector": "S2Scans",
-        "Key": "s2scans"
-    },
-    {
-        "Connector": "ImiTui",
-        "Key": "imitui"
-    },
-    {
-        "Connector": "ScanManga",
-        "Key": "scanmanga"
-    },
-    {
-        "Connector": "TrashScanlations",
-        "Key": "trashscanlations"
-    },
-    {
-        "Connector": "MangaSusu",
-        "Key": "mangasusu"
-    },
-    {
-        "Connector": "NineMangaDE",
-        "Key": "ninemanga-de"
-    },
-    {
-        "Connector": "ToomicsES",
-        "Key": "toomics-es"
-    },
-    {
-        "Connector": "Manga33",
-        "Key": "manga33"
-    },
-    {
-        "Connector": "NijiTranslations",
-        "Key": "nijitranslations"
-    },
-    {
-        "Connector": "MangaClash",
-        "Key": "mangaclash"
-    },
-    {
-        "Connector": "SilentSkyScans",
-        "Key": "silentskyscans"
-    },
-    {
-        "Connector": "ManhuaUs",
-        "Key": "manhuaus"
-    },
-    {
-        "Connector": "TuMangaOnlineHentai",
-        "Key": "tumangaonlinehentai"
-    },
-    {
-        "Connector": "KolNovel",
-        "Key": "kolnovel"
-    },
-    {
-        "Connector": "GDScans",
-        "Key": "gdscans"
-    },
-    {
-        "Connector": "TruyenTranhtuan",
-        "Key": "truyentranhtuan"
-    },
-    {
-        "Connector": "MangaBob",
-        "Key": "mangabob"
-    },
-    {
-        "Connector": "NineEkor",
-        "Key": "9ekor"
-    },
-    {
-        "Connector": "AnimaRegia",
-        "Key": "animaregia"
-    },
-    {
-        "Connector": "KumaScans",
-        "Key": "kumascans"
-    },
-    {
-        "Connector": "WebComicsApp",
-        "Key": "webcomicsapp"
-    },
-    {
-        "Connector": "ShonenMagazinePocket",
-        "Key": "shonenmagazine-pocket"
-    },
-    {
-        "Connector": "MangaNel",
-        "Key": "manganel"
-    },
-    {
-        "Connector": "MangaSubES",
-        "Key": "mangasubes"
-    },
-    {
-        "Connector": "PojokManga",
-        "Key": "pojokmanga"
-    },
-    {
-        "Connector": "MangaLandArabic",
-        "Key": "mangalandarabic"
-    },
-    {
-        "Connector": "Rawkuma",
-        "Key": "rawkuma"
-    },
-    {
-        "Connector": "MangaReceh",
-        "Key": "mangareceh"
-    },
-    {
-        "Connector": "MeioNovel",
-        "Key": "meionovel"
-    },
-    {
-        "Connector": "KooManga",
-        "Key": "koomanga"
-    },
-    {
-        "Connector": "Ikifang",
-        "Key": "ikifang"
-    },
-    {
-        "Connector": "MangaBoruto",
-        "Key": "mangaboruto"
-    },
-    {
-        "Connector": "SenManga",
-        "Key": "senmanga"
-    },
-    {
-        "Connector": "DecadenceScans",
-        "Key": "decadencescans"
-    },
-    {
-        "Connector": "MangaHanta",
-        "Key": "mangahanta"
-    },
-    {
-        "Connector": "MangaIro",
-        "Key": "mangairo"
-    },
-    {
-        "Connector": "GManga",
-        "Key": "gmanga"
-    },
-    {
-        "Connector": "KomikGue",
-        "Key": "komikgue"
-    },
-    {
-        "Connector": "MangaSehri",
-        "Key": "mangasehri"
-    },
-    {
-        "Connector": "SiberOwl",
-        "Key": "siberowl"
-    },
-    {
-        "Connector": "ComicAction",
-        "Key": "comicaction"
-    },
-    {
-        "Connector": "EHentai",
-        "Key": "ehentai"
-    },
-    {
-        "Connector": "MangaToonID",
-        "Key": "mangatoon-id"
-    },
-    {
-        "Connector": "ManyToon",
-        "Key": "manytoon"
-    },
-    {
-        "Connector": "Lilyreader",
-        "Key": "lilyreader"
-    },
-    {
-        "Connector": "InManga",
-        "Key": "inmanga"
-    },
-    {
-        "Connector": "StormInHeaven",
-        "Key": "storminheaven"
-    },
-    {
-        "Connector": "WebComicGamma",
-        "Key": "webcomicgamma"
-    },
-    {
-        "Connector": "MangaKiss",
-        "Key": "mangakiss"
-    },
-    {
-        "Connector": "ScanTrad",
-        "Key": "scantrad"
-    },
-    {
-        "Connector": "LupiTeam",
-        "Key": "lupiteam"
-    },
-    {
-        "Connector": "Mangalek",
-        "Key": "mangalek"
-    },
-    {
-        "Connector": "IceKr",
-        "Key": "icekr"
-    },
-    {
-        "Connector": "Manamoa",
-        "Key": "manamoa"
-    },
-    {
-        "Connector": "MangaTX",
-        "Key": "mangatx"
-    },
-    {
-        "Connector": "DangolineNoFansub",
-        "Key": "dangolinenofansub"
-    },
-    {
-        "Connector": "MangaToonES",
-        "Key": "mangatoon-es"
-    },
-    {
-        "Connector": "ManhwaRaw",
-        "Key": "manhwaraw"
-    },
-    {
-        "Connector": "MMScans",
-        "Key": "mmscans"
-    },
-    {
-        "Connector": "SleepyTranslations",
-        "Key": "sleepytranslations"
-    },
-    {
-        "Connector": "PatyScans",
-        "Key": "patyscans"
-    },
-    {
-        "Connector": "AllPornComic",
-        "Key": "allporncomic"
-    },
-    {
-        "Connector": "ToomicsFR",
-        "Key": "toomics-fr"
-    },
-    {
-        "Connector": "Anivizyon",
-        "Key": "anivizyon"
-    },
-    {
-        "Connector": "EinherjarScans",
-        "Key": "einherjarscans"
-    },
-    {
-        "Connector": "RAWMangas",
-        "Key": "rawmangas"
-    },
-    {
-        "Connector": "MangaWindow",
-        "Key": "mangawindow"
-    },
-    {
-        "Connector": "MangaKisa",
-        "Key": "mangakisa"
-    },
-    {
-        "Connector": "KomikIndo",
-        "Key": "komikindo"
-    },
-    {
-        "Connector": "SiXiangScans",
-        "Key": "sixiangscans"
-    },
-    {
-        "Connector": "LireScan",
-        "Key": "lirescan"
-    },
-    {
-        "Connector": "FirstKiss",
-        "Key": "firstkiss"
-    },
-    {
-        "Connector": "TwilightScans",
-        "Key": "twilightscans"
-    },
-    {
-        "Connector": "Hentai2Read",
-        "Key": "hentai2read"
-    },
-    {
-        "Connector": "Ganma",
-        "Key": "ganma"
-    },
-    {
-        "Connector": "ToomicsIT",
-        "Key": "toomics-it"
-    },
-    {
-        "Connector": "Qimiaomh",
-        "Key": "qimiaomh"
-    },
-    {
-        "Connector": "Saikaiscan",
-        "Key": "saikaiscan"
-    },
-    {
-        "Connector": "NovelCoolBR",
-        "Key": "novelcool-br"
-    },
-    {
-        "Connector": "SereinScans",
-        "Key": "sereinscans"
-    },
-    {
-        "Connector": "SkyManhwa",
-        "Key": "skymanhwa"
-    },
-    {
-        "Connector": "NovelCoolEN",
-        "Key": "novelcool-en"
-    },
-    {
-        "Connector": "TheCatScans",
-        "Key": "thecatscans"
-    },
-    {
-        "Connector": "DynastyScans",
-        "Key": "dynasty-scans"
-    },
-    {
-        "Connector": "TheNoNames",
-        "Key": "thenonames"
-    },
-    {
-        "Connector": "MangaReader",
-        "Key": "mangareader"
-    },
-    {
-        "Connector": "Toonily",
-        "Key": "toonily"
-    },
-    {
-        "Connector": "WordExcerpt",
-        "Key": "wordexcerpt"
-    },
-    {
-        "Connector": "DemoneCeleste",
-        "Key": "demoneceleste"
-    },
-    {
-        "Connector": "Naver",
-        "Key": "naver"
-    },
-    {
-        "Connector": "Manhuas",
-        "Key": "manhuas"
-    },
-    {
-        "Connector": "NinjaScans",
-        "Key": "ninjascans"
-    },
-    {
-        "Connector": "PhoenixSerenade",
-        "Key": "phoenixserenade"
-    },
-    {
-        "Connector": "SundayWebry",
-        "Key": "sundaywebry"
-    },
-    {
-        "Connector": "PervEdenIT",
-        "Key": "perveden-it"
-    },
-    {
-        "Connector": "TonariNoYoungJump",
-        "Key": "tonarinoyoungjump"
-    },
-    {
-        "Connector": "ImperioScans",
-        "Key": "imperioscans"
-    },
-    {
-        "Connector": "NovelCoolFR",
-        "Key": "novelcool-fr"
-    },
-    {
-        "Connector": "ManhuaBox",
-        "Key": "manhuabox"
-    },
-    {
-        "Connector": "GrazeScans",
-        "Key": "grazescans"
-    },
-    {
-        "Connector": "ComicGardo",
-        "Key": "comicgardo"
-    },
-    {
-        "Connector": "MangaStarz",
-        "Key": "mangastarz"
-    },
-    {
-        "Connector": "MangaEdenIT",
-        "Key": "mangaeden-it"
-    },
-    {
-        "Connector": "GuFengMH8",
-        "Key": "gufengmh8"
-    },
-    {
-        "Connector": "NHentai",
-        "Key": "nhentai"
-    },
-    {
-        "Connector": "JapanRead",
-        "Key": "japanread"
-    },
-    {
-        "Connector": "MangaEighteenClub",
-        "Key": "manga18-club"
-    },
-    {
-        "Connector": "LELScan",
-        "Key": "lelscan"
-    },
-    {
-        "Connector": "MangaHasu",
-        "Key": "mangahasu"
-    },
-    {
-        "Connector": "MangaRawr",
-        "Key": "mangarawr"
-    },
-    {
-        "Connector": "MangaFreak",
-        "Key": "mangafreak"
-    },
-    {
-        "Connector": "NeoxScan",
-        "Key": "neoxscan"
-    },
-    {
-        "Connector": "MangaTurf",
-        "Key": "mangaturf"
-    },
-    {
-        "Connector": "XAnimeSeduccion",
-        "Key": "xanimeseduccion"
-    },
-    {
-        "Connector": "ComicRyu",
-        "Key": "comicryu"
-    },
-    {
-        "Connector": "CizgiRomanArsivi",
-        "Key": "cizgiromanarsivi"
-    },
-    {
-        "Connector": "LoliVault",
-        "Key": "lolivault"
-    },
-    {
-        "Connector": "Biamam",
-        "Key": "biamam"
-    },
-    {
-        "Connector": "ToomicsMX",
-        "Key": "toomics-mx"
-    },
-    {
-        "Connector": "wuqimh",
-        "Key": "wuqimh"
-    },
-    {
-        "Connector": "ComicFX",
-        "Key": "comicfx"
-    },
-    {
-        "Connector": "OneTimeScans",
-        "Key": "onetimescans"
-    },
-    {
-        "Connector": "NineMangaBR",
-        "Key": "ninemanga-br"
-    },
-    {
-        "Connector": "Novelgo",
-        "Key": "novelgo"
-    },
-    {
-        "Connector": "MorpheusFansub",
-        "Key": "morpheusfansub"
-    },
-    {
-        "Connector": "TsubakiNoScan",
-        "Key": "tsubakinoscan"
-    },
-    {
-        "Connector": "MangaNeloMe",
-        "Key": "manganelome"
-    },
-    {
-        "Connector": "RainDropFansub",
-        "Key": "raindropfansub"
-    },
-    {
-        "Connector": "GloryScans",
-        "Key": "gloryscans"
-    },
-    {
-        "Connector": "KomikTapMDO",
-        "Key": "komiktap-mdo"
-    },
-    {
-        "Connector": "WebNovelLive",
-        "Key": "webnovellive"
-    },
-    {
-        "Connector": "NoraNoFansub",
-        "Key": "noranofansub"
-    },
-    {
-        "Connector": "ComicWalker",
-        "Key": "comicwalker"
-    },
-    {
-        "Connector": "MangaSpark",
-        "Key": "mangaspark"
-    },
-    {
-        "Connector": "WhiteCloudPavilion",
-        "Key": "whitecloudpavilion"
-    },
-    {
-        "Connector": "MangaSY",
-        "Key": "mangasy"
-    },
-    {
-        "Connector": "ToomicsEN",
-        "Key": "toomics-en"
-    },
-    {
-        "Connector": "ScansMangas",
-        "Key": "scansmangas"
-    },
-    {
-        "Connector": "OrigamiOrpheans",
-        "Key": "origamiorpheans"
-    },
-    {
-        "Connector": "HentaiNexus",
-        "Key": "hentainexus"
-    },
-    {
-        "Connector": "ShoujoHearts",
-        "Key": "shoujohearts"
-    },
-    {
-        "Connector": "Tapas",
-        "Key": "tapas"
-    },
-    {
-        "Connector": "MangaProZ",
-        "Key": "mangaproz"
-    },
-    {
-        "Connector": "LineWebtoonZH",
-        "Key": "linewebtoon-zh'; // zh-hant\n"
-    },
-    {
-        "Connector": "BestManga",
-        "Key": "bestmanga"
-    },
-    {
-        "Connector": "MagaParkPublisher",
-        "Key": "manga-park"
-    },
-    {
-        "Connector": "Manga41",
-        "Key": "manga41"
-    },
-    {
-        "Connector": "ComicoNovel",
-        "Key": "comico-novel"
-    },
-    {
-        "Connector": "EvilFlowers",
-        "Key": "evilflowers"
-    },
-    {
-        "Connector": "AHStudios",
-        "Key": "ahstudios"
-    },
-    {
-        "Connector": "TurkCraft",
-        "Key": "turkcraft"
-    },
-    {
-        "Connector": "SOSScanlation",
-        "Key": "sosscanlation"
-    },
-    {
-        "Connector": "ManhwaEighteen",
-        "Key": "manhwa18-int"
-    },
-    {
-        "Connector": "VRVRoosterteeth",
-        "Key": "vrv-roosterteeth"
-    },
-    {
-        "Connector": "LxHentai",
-        "Key": "lxhentai"
-    },
-    {
-        "Connector": "Atikrost",
-        "Key": "atikrost"
-    },
-    {
-        "Connector": "On_Manga",
-        "Key": "on-manga"
-    },
-    {
-        "Connector": "RaiderScans",
-        "Key": "raiderscans"
-    },
-    {
-        "Connector": "AnataNoMotokare",
-        "Key": "anatanomotokare"
-    },
-    {
-        "Connector": "MangaCat",
-        "Key": "mangacat"
-    },
-    {
-        "Connector": "MangaScouts",
-        "Key": "mangascouts"
-    },
-    {
-        "Connector": "KKJScans",
-        "Key": "kkjscans"
-    },
-    {
-        "Connector": "NewType",
-        "Key": "newtype"
-    },
-    {
-        "Connector": "manmanapp",
-        "Key": "manmanapp"
-    },
-    {
-        "Connector": "JpMangas",
-        "Key": "jpmangas"
-    },
-    {
-        "Connector": "TuMangaNet",
-        "Key": "tumanganet"
-    },
-    {
-        "Connector": "JokerFansub",
-        "Key": "jokerfansub"
-    },
-    {
-        "Connector": "PelaTeam",
-        "Key": "pelateam"
-    },
-    {
-        "Connector": "KireiCake",
-        "Key": "kireicake"
-    },
-    {
-        "Connector": "ManhuasWorld",
-        "Key": "manhuasworld"
-    },
-    {
-        "Connector": "HoduComics",
-        "Key": "hoducomics"
-    },
-    {
-        "Connector": "ShonenJumpPlus",
-        "Key": "shonenjumpplus"
-    },
-    {
-        "Connector": "HimeraFansub",
-        "Key": "himerafansub"
-    },
-    {
-        "Connector": "ManHuaBei",
-        "Key": "manhuabei"
-    },
-    {
-        "Connector": "Dm5",
-        "Key": "dm5"
-    },
-    {
-        "Connector": "ManhwaPool",
-        "Key": "manhwapool"
-    },
-    {
-        "Connector": "MangaReaderSite",
-        "Key": "mangareadersite"
-    },
-    {
-        "Connector": "MangaZukiRAWS",
-        "Key": "mangazuki-raws"
-    },
-    {
-        "Connector": "YoManga",
-        "Key": "yomanga"
-    },
-    {
-        "Connector": "KissComic",
-        "Key": "kisscomic"
-    },
-    {
-        "Connector": "HentaiCafe",
-        "Key": "hentaicafe"
-    },
-    {
-        "Connector": "ScanFR",
-        "Key": "scanfr"
-    },
-    {
-        "Connector": "MangaID",
-        "Key": "mangaid"
-    },
-    {
-        "Connector": "BoredomSociety",
-        "Key": "boredomsociety"
-    },
-    {
-        "Connector": "RavensScansES",
-        "Key": "ravensscans-es"
-    },
-    {
-        "Connector": "VizShonenJump",
-        "Key": "vizshonenjump"
-    },
-    {
-        "Connector": "DeathTollScans",
-        "Key": "deathtollscans"
-    },
-    {
-        "Connector": "ScansMangasxyz",
-        "Key": "scansmangasxyz"
-    },
-    {
-        "Connector": "MangaNeloToday",
-        "Key": "manganelotoday"
-    },
-    {
-        "Connector": "NtsVoidScans",
-        "Key": "ntsvoidscans"
-    },
-    {
-        "Connector": "Manga3S",
-        "Key": "manga3s"
-    },
-    {
-        "Connector": "NovelCoolRU",
-        "Key": "novelcool-ru"
-    },
-    {
-        "Connector": "ReadWebtoons",
-        "Key": "readwebtoons"
-    },
-    {
-        "Connector": "AntisenseScans",
-        "Key": "antisensescans"
-    },
-    {
-        "Connector": "ComicPolaris",
-        "Key": "comicpolaris"
-    },
-    {
-        "Connector": "BoysLove",
-        "Key": "boyslove"
-    },
-    {
-        "Connector": "SolitarioNoFansub",
-        "Key": "solitarionofansub"
-    },
-    {
-        "Connector": "MangaKawaii",
-        "Key": "mangakawaii"
-    },
-    {
-        "Connector": "KomikNesia",
-        "Key": "komiknesia"
-    },
-    {
-        "Connector": "Hiperdex",
-        "Key": "hiperdex"
-    },
-    {
-        "Connector": "WarQueenScan",
-        "Key": "warqueenscan"
-    },
-    {
-        "Connector": "HerosWeb",
-        "Key": "herosweb"
-    },
-    {
-        "Connector": "ComicBoost",
-        "Key": "comicboost"
-    },
-    {
-        "Connector": "MangaTopya",
-        "Key": "mangatopya"
-    },
-    {
-        "Connector": "MoonLoversScan",
-        "Key": "moonloversscan"
-    },
-    {
-        "Connector": "Pururin",
-        "Key": "pururin"
-    },
-    {
-        "Connector": "MangaRow",
-        "Key": "mangarow"
-    },
-    {
-        "Connector": "MangaCanBlog",
-        "Key": "mangacanblog"
-    },
-    {
-        "Connector": "HidokuCeviri",
-        "Key": "hidokuceviri"
-    },
-    {
-        "Connector": "MyAnimeListManga",
-        "Key": "myanimelistmanga"
-    },
-    {
-        "Connector": "LilyManga",
-        "Key": "lilymanga"
-    },
-    {
-        "Connector": "MangaKitsu",
-        "Key": "mangakitsu"
-    },
-    {
-        "Connector": "ChibiManga",
-        "Key": "chibimanga"
-    },
-    {
-        "Connector": "ManhwaSmut",
-        "Key": "manhwasmut"
-    },
-    {
-        "Connector": "LeviatanScans",
-        "Key": "leviatanscans"
-    },
-    {
-        "Connector": "ReadComicBooksOnline",
-        "Key": "readcomicbooksonline"
-    },
-    {
-        "Connector": "MangaYaku",
-        "Key": "mangayaku"
-    },
-    {
-        "Connector": "CrunchyManga",
-        "Key": "crunchymanga"
-    },
-    {
-        "Connector": "ManhuaPlus",
-        "Key": "manhuaplus"
-    },
-    {
-        "Connector": "FenixScanlator",
-        "Key": "fenixscanlator"
-    },
-    {
-        "Connector": "Manga347",
-        "Key": "manga347"
-    },
-    {
-        "Connector": "PrismaScan",
-        "Key": "prismascans"
-    },
-    {
-        "Connector": "WeComics",
-        "Key": "wecomics"
-    },
-    {
-        "Connector": "ComicVN",
-        "Key": "comicvn"
-    },
-    {
-        "Connector": "SDLGFansub",
-        "Key": "sdlgfansub"
-    },
-    {
-        "Connector": "RavensScansEN",
-        "Key": "ravensscans-en"
-    },
-    {
-        "Connector": "NineMangaNet",
-        "Key": "ninemanganet"
-    },
-    {
-        "Connector": "Riceballicious",
-        "Key": "riceballicious"
-    },
-    {
-        "Connector": "ManHua1359",
-        "Key": "1359mh"
-    },
-    {
-        "Connector": "LectorManga",
-        "Key": "lectormanga"
-    },
-    {
-        "Connector": "MangaDoor",
-        "Key": "mangadoor"
-    },
-    {
-        "Connector": "GSNation",
-        "Key": "gsnation"
-    },
-    {
-        "Connector": "VNSharing",
-        "Key": "vnsharing"
-    },
-    {
-        "Connector": "MangaArchive",
-        "Key": "mangaarchive"
-    },
-    {
-        "Connector": "KumoTran",
-        "Key": "kumotran"
-    },
-    {
-        "Connector": "ProjetoScanlator",
-        "Key": "projetoscanlator"
-    },
-    {
-        "Connector": "Desu",
-        "Key": "desu"
-    },
-    {
-        "Connector": "RandomScan",
-        "Key": "randomscan"
-    },
-    {
-        "Connector": "MangaScantrad",
-        "Key": "manga-scantrad"
-    },
-    {
-        "Connector": "Turktoon",
-        "Key": "turktoon"
-    },
-    {
-        "Connector": "HManhwa",
-        "Key": "hmanhwa"
-    },
-    {
-        "Connector": "MangaParkEN",
-        "Key": "mangapark-en"
-    },
-    {
-        "Connector": "KomiScans",
-        "Key": "komiscans"
-    },
-    {
-        "Connector": "ShonenJumpRookie",
-        "Key": "shonenjumprookie"
-    },
-    {
-        "Connector": "KirishimaFansub",
-        "Key": "kirishimafansub"
-    },
-    {
-        "Connector": "MangaMitsu",
-        "Key": "mangamitsu"
-    },
-    {
-        "Connector": "Manatoki",
-        "Key": "manatoki"
-    },
-    {
-        "Connector": "VerComicsPorno",
-        "Key": "vercomicsporno"
-    },
-    {
-        "Connector": "GateAnimeManga",
-        "Key": "gateanimemanga"
-    },
-    {
-        "Connector": "GloryManga",
-        "Key": "glorymanga"
-    },
-    {
-        "Connector": "MangaHay",
-        "Key": "mangahay"
-    },
-    {
-        "Connector": "JustForFun",
-        "Key": "justforfun"
-    },
-    {
-        "Connector": "KlikManga",
-        "Key": "klikmanga"
-    },
-    {
-        "Connector": "MerakiScans",
-        "Key": "merakiscans"
-    },
-    {
-        "Connector": "Migudm",
-        "Key": "migudm"
-    },
-    {
-        "Connector": "ReadHentaiManga",
-        "Key": "readhentaimanga"
-    },
-    {
-        "Connector": "MangaKik",
-        "Key": "mangakik"
-    },
-    {
-        "Connector": "PhoenixFansub",
-        "Key": "phoenixfansub"
-    },
-    {
-        "Connector": "KomikGo",
-        "Key": "komikgo"
-    },
-    {
-        "Connector": "FallenAngelsScans",
-        "Key": "fallenangelsscans"
-    },
-    {
-        "Connector": "KissmangaORG",
-        "Key": "kissmangaorg"
-    },
-    {
-        "Connector": "LineWebtoonTH",
-        "Key": "linewebtoon-th"
-    },
-    {
-        "Connector": "Kuimh",
-        "Key": "kuimh"
-    },
-    {
-        "Connector": "mkzhan",
-        "Key": "mkzhan"
-    },
-    {
-        "Connector": "ZuiMH",
-        "Key": "zuimh"
-    },
-    {
-        "Connector": "IMangaScans",
-        "Key": "imangascans"
-    },
-    {
-        "Connector": "Shogakukan",
-        "Key": "shogakukan"
-    },
-    {
-        "Connector": "SmackJeeves",
-        "Key": "smackjeeves"
-    },
-    {
-        "Connector": "MangaRoom",
-        "Key": "mangaroom"
-    },
-    {
-        "Connector": "SeaOtterScans",
-        "Key": "seaotterscans"
-    },
-    {
-        "Connector": "ManhwaClub",
-        "Key": "manhwaclub"
-    },
-    {
-        "Connector": "RenascenceScans",
-        "Key": "renascencescans"
-    },
-    {
-        "Connector": "MangaStein",
-        "Key": "mangastein"
-    },
-    {
-        "Connector": "MangaTeca",
-        "Key": "mangateca"
-    },
-    {
-        "Connector": "IrisScanlator",
-        "Key": "irisscanlator"
-    },
-    {
-        "Connector": "Remangas",
-        "Key": "remangas"
-    },
-    {
-        "Connector": "SheaManga",
-        "Key": "sheamanga"
-    },
-    {
-        "Connector": "MangaZukiScans",
-        "Key": "mangazuki-scans"
-    },
-    {
-        "Connector": "TruyenTranhAudio",
-        "Key": "truyentranhaudio"
-    },
-    {
-        "Connector": "ZManga",
-        "Key": "zmanga"
-    },
-    {
-        "Connector": "mundowuxia",
-        "Key": "mundowuxia"
-    },
-    {
-        "Connector": "ManhwaHentaiMe",
-        "Key": "manhwahentaime"
-    },
-    {
-        "Connector": "ManhuaScan",
-        "Key": "manhuascan"
-    },
-    {
-        "Connector": "MundoMangaKun",
-        "Key": "mundomangakun"
-    },
-    {
-        "Connector": "HoshikuzuuScans",
-        "Key": "hoshikuzuuscans"
-    },
-    {
-        "Connector": "ToomicsJP",
-        "Key": "toomics-jp"
-    },
-    {
-        "Connector": "SoManga",
-        "Key": "somanga"
-    },
-    {
-        "Connector": "EdelgardeScans",
-        "Key": "edelgardescans"
-    },
-    {
-        "Connector": "Jmana1",
-        "Key": "jmana1"
-    },
-    {
-        "Connector": "topmanhwanet",
-        "Key": "topmanhuanet"
-    },
-    {
-        "Connector": "HentaiShark",
-        "Key": "hentaishark"
-    },
-    {
-        "Connector": "KomikStation",
-        "Key": "komikstation"
-    },
-    {
-        "Connector": "KomikAV",
-        "Key": "komikav"
-    },
-    {
-        "Connector": "MangaNine",
-        "Key": "manganine"
-    },
-    {
-        "Connector": "ManhwaTop",
-        "Key": "manhwatop"
-    },
-    {
-        "Connector": "TeabeerComics",
-        "Key": "teabeercomics"
-    },
-    {
-        "Connector": "Phoenix-Scans",
-        "Key": "phoenix-scans"
-    },
-    {
-        "Connector": "MangaYurdu",
-        "Key": "mangayurdu"
-    },
-    {
-        "Connector": "KangaryuTeam",
-        "Key": "kangaryuteam"
-    },
-    {
-        "Connector": "ReadKomik",
-        "Key": "readkomik"
-    },
-    {
-        "Connector": "NoxSubs",
-        "Key": "noxsubs"
-    },
-    {
-        "Connector": "MangaLover",
-        "Key": "mangalover"
-    },
-    {
-        "Connector": "ChampionScans",
-        "Key": "championscans"
-    },
-    {
-        "Connector": "MangaArabTeam",
-        "Key": "mangaarabteam"
-    },
-    {
-        "Connector": "LewdManhwa",
-        "Key": "lewdmanhwa"
-    },
-    {
-        "Connector": "HelveticaScans",
-        "Key": "helveticascans"
-    },
-    {
-        "Connector": "GrafiManga",
-        "Key": "grafimanga"
-    },
-    {
-        "Connector": "ToonManga",
-        "Key": "toonmanga"
-    },
-    {
-        "Connector": "PervEden",
-        "Key": "perveden"
-    },
-    {
-        "Connector": "NaniScans",
-        "Key": "naniscans"
-    },
-    {
-        "Connector": "Luscious",
-        "Key": "luscious"
-    },
-    {
-        "Connector": "MataKomik",
-        "Key": "matakomik"
-    },
-    {
-        "Connector": "DRKMangas",
-        "Key": "drkmangas"
-    },
-    {
-        "Connector": "LezhinKO",
-        "Key": "lezhin-ko"
-    },
-    {
-        "Connector": "Mangacim",
-        "Key": "mangacim"
-    },
-    {
-        "Connector": "NovelCoolIT",
-        "Key": "novelcool-it"
-    },
-    {
-        "Connector": "MangaKane",
-        "Key": "mangakane"
-    },
-    {
-        "Connector": "Toonkor",
-        "Key": "toonkor"
-    },
-    {
-        "Connector": "Puzzmos",
-        "Key": "puzzmos"
-    },
-    {
-        "Connector": "MangaDeep",
-        "Key": "mangadeep"
-    },
-    {
-        "Connector": "HunlightScans",
-        "Key": "hunlightscans"
-    },
-    {
-        "Connector": "TrueColorsScan",
-        "Key": "truecolorsscan"
-    },
-    {
-        "Connector": "ToonSarang",
-        "Key": "toonsarang"
-    },
-    {
-        "Connector": "UniversoYuri",
-        "Key": "universoyuri"
-    },
-    {
-        "Connector": "VapoScan",
-        "Key": "vaposcan"
-    },
-    {
-        "Connector": "WestManga",
-        "Key": "westmanga"
-    },
-    {
-        "Connector": "anisamanga",
-        "Key": "anisamanga"
-    },
-    {
-        "Connector": "Manga18FX",
-        "Key": "manga18fx"
-    },
-    {
-        "Connector": "ComicFire",
-        "Key": "comicfire"
-    },
-    {
-        "Connector": "MenudoFansub",
-        "Key": "menudofansub"
-    },
-    {
-        "Connector": "BatoScan",
-        "Key": "batoscan"
-    },
-    {
-        "Connector": "FlameScans",
-        "Key": "flamescans"
-    },
-    {
-        "Connector": "Anikiga",
-        "Key": "anikiga"
-    },
-    {
-        "Connector": "Mangafast",
-        "Key": "mangafast"
-    },
-    {
-        "Connector": "CocoManHua",
-        "Key": "cocomanhua"
-    },
-    {
-        "Connector": "Hocvientruyentranh",
-        "Key": "hocvientruyentranh"
-    },
-    {
-        "Connector": "KaisarKomik",
-        "Key": "kaisarkomik"
-    },
-    {
-        "Connector": "ItaScan",
-        "Key": "itascan"
-    },
-    {
-        "Connector": "MartialScans",
-        "Key": "martialscans"
-    },
-    {
-        "Connector": "CloverManga",
-        "Key": "clovermanga"
-    },
-    {
-        "Connector": "Opiatoon",
-        "Key": "opiatoon"
-    },
-    {
-        "Connector": "Boosei",
-        "Key": "boosei"
-    },
-    {
-        "Connector": "HatsukiManga",
-        "Key": "hatsukimanga"
-    },
-    {
-        "Connector": "MangaVadisi",
-        "Key": "mangavadisi"
-    },
-    {
-        "Connector": "GanGanOnline",
-        "Key": "ganganonline"
-    },
-    {
-        "Connector": "MangaShiro",
-        "Key": "mangashiro"
-    },
-    {
-        "Connector": "YuriVerso",
-        "Key": "yuriverso"
-    },
-    {
-        "Connector": "SeinagiAdultoFansub",
-        "Key": "seinagiadultofansub"
-    },
-    {
-        "Connector": "ArangScans",
-        "Key": "arangscans"
-    },
-    {
-        "Connector": "MangaKid",
-        "Key": "mangakid"
-    },
-    {
-        "Connector": "RawSenManga",
-        "Key": "rawsenmanga"
-    },
-    {
-        "Connector": "ScantradUnion",
-        "Key": "scantradunion"
-    },
-    {
-        "Connector": "Mgkomik",
-        "Key": "mgkomik"
-    },
-    {
-        "Connector": "MarkScans",
-        "Key": "markscans"
-    },
-    {
-        "Connector": "TAADD",
-        "Key": "taadd"
-    },
-    {
-        "Connector": "JiangzaiToon",
-        "Key": "jiangzaitoon"
-    },
-    {
-        "Connector": "FinalScans",
-        "Key": "finalscans"
-    },
-    {
-        "Connector": "LianScans",
-        "Key": "lianscans"
-    },
-    {
-        "Connector": "OffScan",
-        "Key": "offscan"
-    },
-    {
-        "Connector": "Manga3x",
-        "Key": "manga3x"
-    },
-    {
-        "Connector": "DaumWebtoon",
-        "Key": "daumwebtoon"
-    },
-    {
-        "Connector": "VRVCrunchyroll",
-        "Key": "vrv-crunchyroll"
-    },
-    {
-        "Connector": "TaoManhua",
-        "Key": "taomanhua"
-    },
-    {
-        "Connector": "HunterScan",
-        "Key": "hunterscan"
-    },
-    {
-        "Connector": "MangaStreamCC",
-        "Key": "mangastreamcc"
-    },
-    {
-        "Connector": "MangaRose",
-        "Key": "mangarose"
-    },
-    {
-        "Connector": "Manhwa18",
-        "Key": "manhwa18"
-    },
-    {
-        "Connector": "JumpBookStore",
-        "Key": "jumpbookstore"
-    },
-    {
-        "Connector": "HikariScan",
-        "Key": "hikariscan"
-    },
-    {
-        "Connector": "MagComi",
-        "Key": "magcomi"
-    },
-    {
-        "Connector": "COMICMeDu",
-        "Key": "comicmedu"
-    },
-    {
-        "Connector": "DropeScan",
-        "Key": "dropescan"
-    },
-    {
-        "Connector": "UyuyanBalik",
-        "Key": "uyuyanbalik"
-    },
-    {
-        "Connector": "Pzykosis666HFansub",
-        "Key": "pzykosis666hfansub"
-    },
-    {
-        "Connector": "ArgosScan",
-        "Key": "argosscan"
-    },
-    {
-        "Connector": "Manganelos",
-        "Key": "manganelos"
-    },
-    {
-        "Connector": "ManHuaNiu",
-        "Key": "manhuaniu"
-    },
-    {
-        "Connector": "TopManhua",
-        "Key": "topmanhua"
-    },
-    {
-        "Connector": "KissAway",
-        "Key": "kissaway"
-    },
-    {
-        "Connector": "SeinagiFansubEN",
-        "Key": "seinagifansub-en"
-    },
-    {
-        "Connector": "WordHero",
-        "Key": "wordhero"
-    },
-    {
-        "Connector": "LittleGarden",
-        "Key": "littlegarden"
-    },
-    {
-        "Connector": "GourmetScans",
-        "Key": "gourmetscans"
-    },
-    {
-        "Connector": "YoungJump",
-        "Key": "youngjump"
-    },
-    {
-        "Connector": "Kuman5",
-        "Key": "kuman5"
-    },
-    {
-        "Connector": "ReadMNG",
-        "Key": "readmng"
-    },
-    {
-        "Connector": "DokiFansubs",
-        "Key": "dokifansubs"
-    },
-    {
-        "Connector": "OnManga",
-        "Key": "onmanga"
-    },
-    {
-        "Connector": "TurkceManga",
-        "Key": "turkcemanga"
-    },
-    {
-        "Connector": "MangaZukiArchive",
-        "Key": "mangazuki-archive"
-    },
-    {
-        "Connector": "MangaWOW",
-        "Key": "mangawow"
-    },
-    {
-        "Connector": "Team1x1",
-        "Key": "team1x1"
-    },
-    {
-        "Connector": "AdonisFansub",
-        "Key": "adonisfansub"
-    },
-    {
-        "Connector": "KissMangaWebsite",
-        "Key": "kissmangawebsite"
-    },
-    {
-        "Connector": "Imgur",
-        "Key": "imgur"
-    },
-    {
-        "Connector": "MangaNeloLink",
-        "Key": "manganelolink"
-    },
-    {
-        "Connector": "LeviatanScansES",
-        "Key": "leviatanscans-es"
-    },
-    {
-        "Connector": "MangaSushi",
-        "Key": "mangasushi"
-    },
-    {
-        "Connector": "ReaperScans",
-        "Key": "reaperscans"
-    },
-    {
-        "Connector": "DetectiveConanAR",
-        "Key": "detectiveconanar"
-    },
-    {
-        "Connector": "SelfManga",
-        "Key": "selfmanga"
-    },
-    {
-        "Connector": "MangaRockTeam",
-        "Key": "mangarockteam"
-    },
-    {
-        "Connector": "RedRibbon",
-        "Key": "redribbon"
-    },
-    {
-        "Connector": "LimaScans",
-        "Key": "limascans"
-    },
-    {
-        "Connector": "MangaAction",
-        "Key": "mangaaction"
-    },
-    {
-        "Connector": "HeroManhua",
-        "Key": "heromanhua"
-    },
-    {
-        "Connector": "YayuToon",
-        "Key": "yayutoon"
-    },
-    {
-        "Connector": "HunterFansub",
-        "Key": "hunterfansub"
-    },
-    {
-        "Connector": "ComicDays",
-        "Key": "comicdays"
-    },
-    {
-        "Connector": "KomikTap",
-        "Key": "komiktap"
-    },
-    {
-        "Connector": "MangaJar",
-        "Key": "mangajar"
-    },
-    {
-        "Connector": "MangaCruzers",
-        "Key": "mangacruzers"
-    },
-    {
-        "Connector": "BakaMan",
-        "Key": "bakaman"
-    },
-    {
-        "Connector": "anikiga",
-        "Key": "anikiga"
-    },
-    {
-        "Connector": "IlluminatiManga",
-        "Key": "illuminatimanga"
-    },
-    {
-        "Connector": "MangaHost",
-        "Key": "mangahost"
-    },
-    {
-        "Connector": "Sukima",
-        "Key": "sukima"
-    },
-    {
-        "Connector": "FirstKissManhua",
-        "Key": "1stkissmanhua"
-    },
-    {
-        "Connector": "BacaKomik",
-        "Key": "bacakomik"
-    },
-    {
-        "Connector": "ComicBorder",
-        "Key": "comicborder"
-    },
-    {
-        "Connector": "DigitalTeam",
-        "Key": "digitalteam"
-    },
-    {
-        "Connector": "mangaz",
-        "Key": "mangaz"
-    },
-    {
-        "Connector": "MangaHubRU",
-        "Key": "mangahubru"
-    },
-    {
-        "Connector": "ReadM",
-        "Key": "readm"
-    },
-    {
-        "Connector": "HerozScans",
-        "Key": "herozscans"
-    },
-    {
-        "Connector": "ImmortalUpdates",
-        "Key": "immortalupdates"
-    },
-    {
-        "Connector": "MangaOkur",
-        "Key": "mangaokur"
-    },
-    {
-        "Connector": "HolyManga",
-        "Key": "holymanga"
-    },
-    {
-        "Connector": "GeceninLordu",
-        "Key": "geceninlordu"
-    },
-    {
-        "Connector": "YouBaManga",
-        "Key": "youbamanga"
-    },
-    {
-        "Connector": "FdmScan",
-        "Key": "fdmscan"
-    },
-    {
-        "Connector": "Manmankan",
-        "Key": "manmankan"
-    },
-    {
-        "Connector": "Caisemh",
-        "Key": "caisemh"
-    },
-    {
-        "Connector": "GekkouScans",
-        "Key": "gekkouscans"
-    },
-    {
-        "Connector": "MangaHere",
-        "Key": "mangahere"
-    },
-    {
-        "Connector": "IsekaiScan",
-        "Key": "isekaiscan"
-    },
-    {
-        "Connector": "sakuramanga",
-        "Key": "sakuramanga"
-    },
-    {
-        "Connector": "MangaPanda",
-        "Key": "mangapanda"
-    },
-    {
-        "Connector": "MangaToonEN",
-        "Key": "mangatoon-en"
-    },
-    {
-        "Connector": "SKScans",
-        "Key": "skscans"
-    },
-    {
-        "Connector": "KomikManga",
-        "Key": "komikmanga"
-    },
-    {
-        "Connector": "Comico",
-        "Key": "comico"
-    },
-    {
-        "Connector": "SenpaiEdiciones",
-        "Key": "senpaiediciones"
-    },
-    {
-        "Connector": "MangaWar",
-        "Key": "mangawar"
-    },
-    {
-        "Connector": "XlecX",
-        "Key": "xlecx"
-    },
-    {
-        "Connector": "Wnacg",
-        "Key": "wnacg"
-    },
-    {
-        "Connector": "ManhwaWorld",
-        "Key": "manhwaworld"
-    },
-    {
-        "Connector": "ZYMKMangaWeb",
-        "Key": "zymk"
-    },
-    {
-        "Connector": "Qiman5",
-        "Key": "qiman5"
-    },
-    {
-        "Connector": "KomikGoID",
-        "Key": "komikgoid"
-    },
-    {
-        "Connector": "VortexScans",
-        "Key": "vortexscans"
-    },
-    {
-        "Connector": "NicoNicoSeiga",
-        "Key": "niconicoseiga"
-    },
-    {
-        "Connector": "TRWebtoon",
-        "Key": "trwebtoon"
-    },
-    {
-        "Connector": "MangaHome",
-        "Key": "mangahome"
-    },
-    {
-        "Connector": "ComicKiba",
-        "Key": "comickiba"
-    },
-    {
-        "Connector": "ReadMangaEU",
-        "Key": "readmangaeu"
-    },
-    {
-        "Connector": "TapTrans",
-        "Key": "taptrans"
-    },
-    {
-        "Connector": "SindriaScanlator",
-        "Key": "sindriascanlator"
-    },
-    {
-        "Connector": "MangaLife",
-        "Key": "mangalife"
-    },
-    {
-        "Connector": "SouDongMan",
-        "Key": "soudongman"
-    },
-    {
-        "Connector": "MangaOnline",
-        "Key": "mangaonline"
-    },
-    {
-        "Connector": "WebToonily",
-        "Key": "webtoonily"
-    },
-    {
-        "Connector": "WoweScans",
-        "Key": "wowescans"
-    },
-    {
-        "Connector": "WeiboManhua",
-        "Key": "weibomanhua"
-    },
-    {
-        "Connector": "GuncelManga",
-        "Key": "guncelmanga"
-    },
-    {
-        "Connector": "MangaSepeti",
-        "Key": "mangasepeti"
-    },
-    {
-        "Connector": "SixMH7",
-        "Key": "6mh7"
-    },
-    {
-        "Connector": "PlotTwistNoFansub",
-        "Key": "plottwistnofansub"
-    },
-    {
-        "Connector": "HamTruyen",
-        "Key": "hamtruyen"
-    },
-    {
-        "Connector": "MasterKomik",
-        "Key": "masterkomik"
-    },
-    {
-        "Connector": "MangaSail",
-        "Key": "mangasail"
-    },
-    {
-        "Connector": "LetItGoScans",
-        "Key": "letitgoscans"
-    },
-    {
-        "Connector": "MangaParkToday",
-        "Key": "mangaparktoday"
-    },
-    {
-        "Connector": "Asgard1team",
-        "Key": "asgard1team"
-    },
-    {
-        "Connector": "Hentaidexy",
-        "Key": "hentaidexy"
-    },
-    {
-        "Connector": "BestManhua",
-        "Key": "bestmanhua"
-    },
-    {
-        "Connector": "MangaRussia",
-        "Key": "mangarussia"
-    },
-    {
-        "Connector": "LittleMonsterScan",
-        "Key": "littlemonsterscan"
-    },
-    {
-        "Connector": "NetTruyen",
-        "Key": "nettruyen"
-    },
-    {
-        "Connector": "ShieldManga",
-        "Key": "shieldmanga"
-    },
-    {
-        "Connector": "EarlyManga",
-        "Key": "earlymanga"
-    },
-    {
-        "Connector": "LHTranslation",
-        "Key": "lhtranslation"
-    },
-    {
-        "Connector": "ManhwasMen",
-        "Key": "manhwasmen"
-    },
-    {
-        "Connector": "ReadManga",
-        "Key": "readmanga"
-    },
-    {
-        "Connector": "RandomTranslations",
-        "Key": "randomtranslations"
-    },
-    {
-        "Connector": "KissmangaIN",
-        "Key": "kissmangain"
-    },
-    {
-        "Connector": "FreeWebtoonCoins",
-        "Key": "freewebtooncoins"
-    },
-    {
-        "Connector": "SeriManga",
-        "Key": "serimanga"
-    },
-    {
-        "Connector": "LynxScans",
-        "Key": "secretscans"
-    },
-    {
-        "Connector": "CrunchyAnime",
-        "Key": "crunchyanime"
-    },
-    {
-        "Connector": "PMScans",
-        "Key": "pmscans"
-    },
-    {
-        "Connector": "ManhwaIndo",
-        "Key": "manhwaindo"
-    },
-    {
-        "Connector": "CatOnHead",
-        "Key": "catonhead"
-    },
-    {
-        "Connector": "MixedManga",
-        "Key": "mixedmanga"
-    },
-    {
-        "Connector": "GetManhwa",
-        "Key": "getmanhwa"
-    },
-    {
-        "Connector": "RawMangaSite",
-        "Key": "rawmangasite"
-    },
-    {
-        "Connector": "CopyToon",
-        "Key": "copytoon"
-    },
-    {
-        "Connector": "iqiyi",
-        "Key": "iqiyi"
-    },
-    {
-        "Connector": "MangaKomi",
-        "Key": "mangakomi"
-    },
-    {
-        "Connector": "Siyahmelek",
-        "Key": "siyahmelek"
-    },
-    {
-        "Connector": "Penlab",
-        "Key": "penlab"
-    },
-    {
-        "Connector": "cutiepie",
-        "Key": "cutiepie"
-    }
+    "kakaopage",
+    "manhuafen",
+    "webtoons-en",
+    "comicearthstar",
+    "517mh",
+    "rawmangaupdate",
+    "gntai",
+    "nekobreakerscan",
+    "hastateamddt",
+    "luxyscans",
+    "otakusekaiscan",
+    "mangabat",
+    "diamondfansub",
+    "xianman123",
+    "neoprojectscans",
+    "blogtruyen",
+    "mangagecesi",
+    "cat-translator",
+    "porncomix",
+    "mangakakalotfun",
+    "phenomenalnofansub",
+    "linewebtoon-es",
+    "methodscans",
+    "astrallibrary",
+    "muchohentai",
+    "manytoonkr",
+    "skymangas",
+    "tenmanga",
+    "epikmanga",
+    "tsumino",
+    "madokami",
+    "manga18-us",
+    "anirune",
+    "mangagenki",
+    "fenixscan",
+    "roseliascanlations",
+    "mangasusureborn",
+    "russification",
+    "kaguyadex",
+    "urasunday",
+    "japitcomics",
+    "myreadingmanga",
+    "mangazuki-site",
+    "pocketangelscans",
+    "timelessleaf",
+    "mangatr",
+    "heroscan",
+    "queensmanga",
+    "mangainn",
+    "powermanga",
+    "readmanhua",
+    "hentairead",
+    "mangatitan",
+    "shqqaa",
+    "mintmanga",
+    "linewebtoon-en",
+    "sakurafansub",
+    "nightcomic",
+    "piedpiperfb",
+    "mangaworld",
+    "linewebtoon-fr",
+    "hscans",
+    "hakaiscan",
+    "muchodoujins",
+    "wutopiacomics",
+    "mangatellers",
+    "ninemanga-ru",
+    "ngomik",
+    "mangant",
+    "unionmangas",
+    "truyentranhlh",
+    "sensainayuri",
+    "apolltoons",
+    "tumangaonlinefun",
+    "9anime",
+    "mangatube",
+    "klankomik",
+    "wbnovel",
+    "dragontranslation",
+    "gammaplus",
+    "manga99",
+    "neumanga",
+    "mangagreat",
+    "36manhua",
+    "youbamanganext",
+    "novelcool-de",
+    "genkan",
+    "futabanet",
+    "aloalivn",
+    "mangatoon-cn",
+    "krakenscans",
+    "iskultripscans",
+    "mangawt",
+    "mangasee",
+    "mangadoom",
+    "spottoon",
+    "submanga",
+    "thetopcomic",
+    "funlist",
+    "mangatownonline",
+    "truyenchon",
+    "imhentai",
+    "readcomicsonline",
+    "shinzooscans",
+    "mangamx",
+    "goldenmangas",
+    "shonenmagazine",
+    "mangaichiscans",
+    "mangaromance",
+    "mangaraw",
+    "mangadenizi",
+    "toomics-sc",
+    "miraclescans",
+    "mangafoxfun",
+    "lovablesubs",
+    "manhwahand",
+    "goldenmanga",
+    "yaoichan",
+    "psychoplay",
+    "bx117",
+    "mavimanga",
+    "seinagifansub-es",
+    "mangatail",
+    "mangazuki-club",
+    "twistedhelscans",
+    "scanop",
+    "mangahub",
+    "kumanga",
+    "kuaikanmanhua",
+    "kombatch",
+    "oneshotscans",
+    "tvymanga",
+    "mabushimajo",
+    "rawdevart",
+    "mangajinnofansub",
+    "readhentai",
+    "wordrain",
+    "mangasorigines",
+    "azoramanga",
+    "mangaship",
+    "olhodalua",
+    "komiksave",
+    "readmangatv",
+    "toptoon",
+    "kumamanga",
+    "wanpaman",
+    "comicextra",
+    "chiotaku",
+    "365manga",
+    "yugenmangas",
+    "manhuadex",
+    "shueishamangaplus",
+    "vermangasporno",
+    "wakascan",
+    "goddessmanga",
+    "mangalink",
+    "araznovel",
+    "heavenmanga2",
+    "amascan",
+    "lovehug",
+    "sekaikomik",
+    "zinmanga",
+    "exhentai",
+    "storiadash",
+    "komikru",
+    "useventeen",
+    "manhwaland",
+    "8muses",
+    "topcomicporno",
+    "mangayosh",
+    "onepunchman",
+    "booklive",
+    "webnovel",
+    "mangalib",
+    "mangastreamtoday",
+    "toomics-ko",
+    "yokaijump",
+    "mangazukimobi",
+    "hniscantrad",
+    "mundowuxia",
+    "yaoiislife",
+    "gurukomik",
+    "asmhentai",
+    "darkskyprojects",
+    "funbe",
+    "mangacross",
+    "forgottenscans",
+    "doujinhentai",
+    "nekomik",
+    "manhuagui",
+    "9hentai",
+    "tsubasasociety",
+    "tempestfansub",
+    "mangaindoweb",
+    "maid",
+    "mangakatana",
+    "novelcool-es",
+    "ohtabooks",
+    "mangaforall",
+    "comicclear",
+    "mangatoon-vi",
+    "jpm1234",
+    "mexat",
+    "manhwasnet",
+    "mangashow",
+    "scanlatorhunters",
+    "mangarocky",
+    "manhuatai",
+    "webtoontr",
+    "lelscanvf",
+    "manhwalatino",
+    "akumanga",
+    "mangaswat",
+    "whimsubs",
+    "lezhin-en",
+    "knightnofansub",
+    "mangaonlinefun",
+    "darkyuerealm",
+    "mangaoku",
+    "mangazuki-online",
+    "toongod",
+    "yayupw",
+    "pcnet",
+    "manhuafast",
+    "skymanga",
+    "hentaihand",
+    "woopread",
+    "sa3i9a",
+    "nhattruyen",
+    "allhentai",
+    "toomics-tc",
+    "imperiodosotakus",
+    "nightow",
+    "happyteascans",
+    "furioscans",
+    "comiczenon",
+    "hentaihere",
+    "hatigarmscans",
+    "manhuaes",
+    "mangapark",
+    "hitomi",
+    "mangaeden-en",
+    "cartoonmad",
+    "daysneo",
+    "porncomixonline",
+    "readrawmanga",
+    "jjutsuscans",
+    "sektekomik",
+    "doujindesu",
+    "manhuaid",
+    "ninemanga-en",
+    "mangaay",
+    "novelfrance",
+    "yuriism",
+    "frscan",
+    "yaoihavenreborn",
+    "wiemanga",
+    "komiku",
+    "s2manga",
+    "mangatown",
+    "manganeloinfo",
+    "kanjiku",
+    "mangakyo",
+    "webmangatr",
+    "angelofresistance",
+    "mangaarab",
+    "traduccionesamistosas",
+    "guoman8",
+    "milftoon",
+    "animepahe",
+    "scanvf",
+    "lazyboysscan",
+    "toomics-de",
+    "mangatensei",
+    "dongmanmanhua",
+    "mangarawonline",
+    "11toon",
+    "hastateam",
+    "samuraiscan",
+    "truyentranhaudioonline",
+    "mangadex",
+    "sensescans",
+    "comicmeteor",
+    "buka",
+    "komikindoweb",
+    "leitor",
+    "mangafest",
+    "crazyscans",
+    "mangadiyari",
+    "yawarakaspirits",
+    "kaimanhua",
+    "mangareadco",
+    "manhuaga",
+    "wantedteam",
+    "hentaifox",
+    "manhwatime",
+    "lindovel",
+    "leermanhua",
+    "comictrail",
+    "leomanga",
+    "hayalistic",
+    "nitroscans",
+    "kuragebunch",
+    "tapread",
+    "mangapill",
+    "78te",
+    "readmanhwa",
+    "hipercool",
+    "mynovel",
+    "kiryuu",
+    "mangakita",
+    "mangatoon-pt",
+    "ninemanga-es",
+    "vrv-hidive",
+    "mangahentai",
+    "nmanhwa",
+    "furyosquad",
+    "animextremist",
+    "mangahispano",
+    "lezhin-ja",
+    "heavenmanga",
+    "alphapolis",
+    "manganeloteam",
+    "zeroscans",
+    "mangaroma",
+    "ninjavi",
+    "manytooncom",
+    "centraldemangas",
+    "novelmic",
+    "mangadods",
+    "mangalord",
+    "ninemanga-it",
+    "freecomiconline",
+    "shoujosense",
+    "komikcast",
+    "mangaonlinebr",
+    "batoto",
+    "hoshinofansub",
+    "linewebtoon-id",
+    "kanman",
+    "copypastescan",
+    "mangaweebs",
+    "okamiyomi",
+    "mangabaz",
+    "mangafull",
+    "komikmama",
+    "tritiniascans",
+    "akaiyuhimun",
+    "rawmangatop",
+    "readrawmangainfo",
+    "godsrealmscan",
+    "worldthree",
+    "animangaes",
+    "bdsfansub",
+    "shoumanhua",
+    "dmzj",
+    "mangazone",
+    "mangachan",
+    "webace",
+    "mangalivre",
+    "yamitenshinofansub",
+    "manganettr",
+    "mangalaw",
+    "webtoonxyz",
+    "sleepypandascans",
+    "whatstatus",
+    "komikid",
+    "flamescans-org",
+    "olaoemanga",
+    "mysticalmerries",
+    "toomics-pt",
+    "mangax18",
+    "geassscan",
+    "toonilynet",
+    "asurascans",
+    "bacamanga",
+    "mangazuki",
+    "mangafox",
+    "manga68",
+    "yesmangasbr",
+    "arthurscan",
+    "8musesxxx",
+    "artemisnofansub",
+    "mangakakalot",
+    "manhwaid",
+    "nekoscan",
+    "shakai",
+    "animecenterscan",
+    "atmsubs",
+    "legionasia",
+    "neteasecomic",
+    "funmanga",
+    "manga1001",
+    "softkomik",
+    "henchan",
+    "mangakakalots",
+    "ichirinnohanayuri",
+    "yaoitoshokan",
+    "linewebtoon-translate",
+    "webtoonhatti",
+    "ruyamanga",
+    "newtoki",
+    "mangaread",
+    "mangafort",
+    "mangaherefun",
+    "disasterscans",
+    "comicsvalley",
+    "wuxiaworld",
+    "modescanlator",
+    "mangalike",
+    "doujins",
+    "nazarickscans",
+    "valhallascans",
+    "apollcomics",
+    "s2scans",
+    "imitui",
+    "scanmanga",
+    "trashscanlations",
+    "mangasusu",
+    "ninemanga-de",
+    "toomics-es",
+    "manga33",
+    "nijitranslations",
+    "mangaclash",
+    "silentskyscans",
+    "manhuaus",
+    "tumangaonlinehentai",
+    "kolnovel",
+    "gdscans",
+    "truyentranhtuan",
+    "mangabob",
+    "9ekor",
+    "animaregia",
+    "kumascans",
+    "webcomicsapp",
+    "shonenmagazine-pocket",
+    "manganel",
+    "mangasubes",
+    "pojokmanga",
+    "mangalandarabic",
+    "rawkuma",
+    "mangareceh",
+    "meionovel",
+    "koomanga",
+    "ikifang",
+    "mangaboruto",
+    "senmanga",
+    "decadencescans",
+    "mangahanta",
+    "mangairo",
+    "gmanga",
+    "komikgue",
+    "mangasehri",
+    "siberowl",
+    "comicaction",
+    "ehentai",
+    "mangatoon-id",
+    "manytoon",
+    "lilyreader",
+    "inmanga",
+    "storminheaven",
+    "webcomicgamma",
+    "mangakiss",
+    "scantrad",
+    "lupiteam",
+    "mangalek",
+    "icekr",
+    "manamoa",
+    "mangatx",
+    "dangolinenofansub",
+    "mangatoon-es",
+    "manhwaraw",
+    "mmscans",
+    "sleepytranslations",
+    "patyscans",
+    "allporncomic",
+    "toomics-fr",
+    "anivizyon",
+    "einherjarscans",
+    "rawmangas",
+    "mangawindow",
+    "mangakisa",
+    "komikindo",
+    "sixiangscans",
+    "lirescan",
+    "firstkiss",
+    "twilightscans",
+    "hentai2read",
+    "ganma",
+    "toomics-it",
+    "qimiaomh",
+    "saikaiscan",
+    "novelcool-br",
+    "sereinscans",
+    "skymanhwa",
+    "novelcool-en",
+    "thecatscans",
+    "dynasty-scans",
+    "thenonames",
+    "mangareader",
+    "toonily",
+    "wordexcerpt",
+    "demoneceleste",
+    "naver",
+    "manhuas",
+    "ninjascans",
+    "phoenixserenade",
+    "sundaywebry",
+    "perveden-it",
+    "tonarinoyoungjump",
+    "imperioscans",
+    "novelcool-fr",
+    "manhuabox",
+    "grazescans",
+    "comicgardo",
+    "mangastarz",
+    "mangaeden-it",
+    "gufengmh8",
+    "nhentai",
+    "japanread",
+    "manga18-club",
+    "lelscan",
+    "mangahasu",
+    "mangarawr",
+    "mangafreak",
+    "neoxscan",
+    "mangaturf",
+    "xanimeseduccion",
+    "comicryu",
+    "cizgiromanarsivi",
+    "lolivault",
+    "biamam",
+    "toomics-mx",
+    "wuqimh",
+    "comicfx",
+    "onetimescans",
+    "ninemanga-br",
+    "novelgo",
+    "morpheusfansub",
+    "tsubakinoscan",
+    "manganelome",
+    "raindropfansub",
+    "gloryscans",
+    "komiktap-mdo",
+    "webnovellive",
+    "noranofansub",
+    "comicwalker",
+    "mangaspark",
+    "whitecloudpavilion",
+    "mangasy",
+    "toomics-en",
+    "scansmangas",
+    "origamiorpheans",
+    "hentainexus",
+    "shoujohearts",
+    "tapas",
+    "mangaproz",
+    "linewebtoon-zh",
+    "bestmanga",
+    "manga-park",
+    "manga41",
+    "comico-novel",
+    "evilflowers",
+    "ahstudios",
+    "turkcraft",
+    "sosscanlation",
+    "manhwa18-int",
+    "vrv-roosterteeth",
+    "lxhentai",
+    "atikrost",
+    "on-manga",
+    "raiderscans",
+    "anatanomotokare",
+    "mangacat",
+    "mangascouts",
+    "kkjscans",
+    "newtype",
+    "manmanapp",
+    "jpmangas",
+    "tumanganet",
+    "jokerfansub",
+    "pelateam",
+    "kireicake",
+    "manhuasworld",
+    "hoducomics",
+    "shonenjumpplus",
+    "himerafansub",
+    "manhuabei",
+    "dm5",
+    "manhwapool",
+    "mangareadersite",
+    "mangazuki-raws",
+    "yomanga",
+    "kisscomic",
+    "hentaicafe",
+    "scanfr",
+    "mangaid",
+    "boredomsociety",
+    "ravensscans-es",
+    "vizshonenjump",
+    "deathtollscans",
+    "scansmangasxyz",
+    "manganelotoday",
+    "ntsvoidscans",
+    "manga3s",
+    "novelcool-ru",
+    "readwebtoons",
+    "antisensescans",
+    "comicpolaris",
+    "boyslove",
+    "solitarionofansub",
+    "mangakawaii",
+    "komiknesia",
+    "hiperdex",
+    "warqueenscan",
+    "herosweb",
+    "comicboost",
+    "mangatopya",
+    "moonloversscan",
+    "pururin",
+    "mangarow",
+    "mangacanblog",
+    "hidokuceviri",
+    "myanimelistmanga",
+    "lilymanga",
+    "mangakitsu",
+    "chibimanga",
+    "manhwasmut",
+    "leviatanscans",
+    "readcomicbooksonline",
+    "mangayaku",
+    "crunchymanga",
+    "manhuaplus",
+    "fenixscanlator",
+    "manga347",
+    "prismascans",
+    "wecomics",
+    "comicvn",
+    "sdlgfansub",
+    "ravensscans-en",
+    "ninemanganet",
+    "riceballicious",
+    "1359mh",
+    "lectormanga",
+    "mangadoor",
+    "gsnation",
+    "vnsharing",
+    "mangaarchive",
+    "kumotran",
+    "projetoscanlator",
+    "desu",
+    "randomscan",
+    "manga-scantrad",
+    "turktoon",
+    "hmanhwa",
+    "mangapark-en",
+    "komiscans",
+    "shonenjumprookie",
+    "kirishimafansub",
+    "mangamitsu",
+    "manatoki",
+    "vercomicsporno",
+    "gateanimemanga",
+    "glorymanga",
+    "mangahay",
+    "justforfun",
+    "klikmanga",
+    "merakiscans",
+    "migudm",
+    "readhentaimanga",
+    "mangakik",
+    "phoenixfansub",
+    "komikgo",
+    "fallenangelsscans",
+    "kissmangaorg",
+    "linewebtoon-th",
+    "kuimh",
+    "mkzhan",
+    "zuimh",
+    "imangascans",
+    "shogakukan",
+    "smackjeeves",
+    "mangaroom",
+    "seaotterscans",
+    "manhwaclub",
+    "renascencescans",
+    "mangastein",
+    "mangateca",
+    "irisscanlator",
+    "remangas",
+    "sheamanga",
+    "mangazuki-scans",
+    "truyentranhaudio",
+    "zmanga",
+    "mundowuxia",
+    "manhwahentaime",
+    "manhuascan",
+    "mundomangakun",
+    "hoshikuzuuscans",
+    "toomics-jp",
+    "somanga",
+    "edelgardescans",
+    "jmana1",
+    "topmanhuanet",
+    "hentaishark",
+    "komikstation",
+    "komikav",
+    "manganine",
+    "manhwatop",
+    "teabeercomics",
+    "phoenix-scans",
+    "mangayurdu",
+    "kangaryuteam",
+    "readkomik",
+    "noxsubs",
+    "mangalover",
+    "championscans",
+    "mangaarabteam",
+    "lewdmanhwa",
+    "helveticascans",
+    "grafimanga",
+    "toonmanga",
+    "perveden",
+    "naniscans",
+    "luscious",
+    "matakomik",
+    "drkmangas",
+    "lezhin-ko",
+    "mangacim",
+    "novelcool-it",
+    "mangakane",
+    "toonkor",
+    "puzzmos",
+    "mangadeep",
+    "hunlightscans",
+    "truecolorsscan",
+    "toonsarang",
+    "universoyuri",
+    "vaposcan",
+    "westmanga",
+    "anisamanga",
+    "manga18fx",
+    "comicfire",
+    "menudofansub",
+    "batoscan",
+    "flamescans",
+    "anikiga",
+    "mangafast",
+    "cocomanhua",
+    "hocvientruyentranh",
+    "kaisarkomik",
+    "itascan",
+    "martialscans",
+    "clovermanga",
+    "opiatoon",
+    "boosei",
+    "hatsukimanga",
+    "mangavadisi",
+    "ganganonline",
+    "mangashiro",
+    "yuriverso",
+    "seinagiadultofansub",
+    "arangscans",
+    "mangakid",
+    "rawsenmanga",
+    "scantradunion",
+    "mgkomik",
+    "markscans",
+    "taadd",
+    "jiangzaitoon",
+    "finalscans",
+    "lianscans",
+    "offscan",
+    "manga3x",
+    "daumwebtoon",
+    "vrv-crunchyroll",
+    "taomanhua",
+    "hunterscan",
+    "mangastreamcc",
+    "mangarose",
+    "manhwa18",
+    "jumpbookstore",
+    "hikariscan",
+    "magcomi",
+    "comicmedu",
+    "dropescan",
+    "uyuyanbalik",
+    "pzykosis666hfansub",
+    "argosscan",
+    "manganelos",
+    "manhuaniu",
+    "topmanhua",
+    "kissaway",
+    "seinagifansub-en",
+    "wordhero",
+    "littlegarden",
+    "gourmetscans",
+    "youngjump",
+    "kuman5",
+    "readmng",
+    "dokifansubs",
+    "onmanga",
+    "turkcemanga",
+    "mangazuki-archive",
+    "mangawow",
+    "team1x1",
+    "adonisfansub",
+    "kissmangawebsite",
+    "imgur",
+    "manganelolink",
+    "leviatanscans-es",
+    "mangasushi",
+    "reaperscans",
+    "detectiveconanar",
+    "selfmanga",
+    "mangarockteam",
+    "redribbon",
+    "limascans",
+    "mangaaction",
+    "heromanhua",
+    "yayutoon",
+    "hunterfansub",
+    "comicdays",
+    "komiktap",
+    "mangajar",
+    "mangacruzers",
+    "bakaman",
+    "anikiga",
+    "illuminatimanga",
+    "mangahost",
+    "sukima",
+    "1stkissmanhua",
+    "bacakomik",
+    "comicborder",
+    "digitalteam",
+    "mangaz",
+    "mangahubru",
+    "readm",
+    "herozscans",
+    "immortalupdates",
+    "mangaokur",
+    "holymanga",
+    "geceninlordu",
+    "youbamanga",
+    "fdmscan",
+    "manmankan",
+    "caisemh",
+    "gekkouscans",
+    "mangahere",
+    "isekaiscan",
+    "sakuramanga",
+    "mangapanda",
+    "mangatoon-en",
+    "skscans",
+    "komikmanga",
+    "comico",
+    "senpaiediciones",
+    "mangawar",
+    "xlecx",
+    "wnacg",
+    "manhwaworld",
+    "zymk",
+    "qiman5",
+    "komikgoid",
+    "vortexscans",
+    "niconicoseiga",
+    "trwebtoon",
+    "mangahome",
+    "comickiba",
+    "readmangaeu",
+    "taptrans",
+    "sindriascanlator",
+    "mangalife",
+    "soudongman",
+    "mangaonline",
+    "webtoonily",
+    "wowescans",
+    "weibomanhua",
+    "guncelmanga",
+    "mangasepeti",
+    "6mh7",
+    "plottwistnofansub",
+    "hamtruyen",
+    "masterkomik",
+    "mangasail",
+    "letitgoscans",
+    "mangaparktoday",
+    "asgard1team",
+    "hentaidexy",
+    "bestmanhua",
+    "mangarussia",
+    "littlemonsterscan",
+    "nettruyen",
+    "shieldmanga",
+    "earlymanga",
+    "lhtranslation",
+    "manhwasmen",
+    "readmanga",
+    "randomtranslations",
+    "kissmangain",
+    "freewebtooncoins",
+    "serimanga",
+    "secretscans",
+    "crunchyanime",
+    "pmscans",
+    "manhwaindo",
+    "catonhead",
+    "mixedmanga",
+    "getmanhwa",
+    "rawmangasite",
+    "copytoon",
+    "iqiyi",
+    "mangakomi",
+    "siyahmelek",
+    "penlab",
+    "cutiepie"
 ]
