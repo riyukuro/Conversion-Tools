@@ -1,25 +1,40 @@
 import json
+from difflib import SequenceMatcher
+
 def clean_backup(file_location):
     
     with open(file_location) as file:
         x = json.load(file)
+
+    with open('Hakuneko-connector-list.json') as f:
+        z = json.load(f) 
     
     manga_list = list()
 
-    extensions_dict = dict(s.split(':') for s in x['extensions'])
-    random_list = []
-    for i in range(len(extensions_dict)):
-        extensions_dict_fixed = {'id': '', 'Source': ''}
-        extensions_dict_fixed['id'] = list(extensions_dict.keys())[i]
-        extensions_dict_fixed['Source'] = list(extensions_dict.values())[i]
-        random_list.append(extensions_dict_fixed)
-        
+    extensions_dict_list = list()
+    for l in x['extensions']:
+        extensions_dict = {'id': '', 'Source': ''}
+        line = l.split(':')
+        extensions_dict['id'] = line[0]
+        for p in range(len(z)):
+            found = False
+            matcher = SequenceMatcher(None, a=z[p], b=str(line[-1]).lower()).ratio()
+            if matcher > 0.90:
+                extensions_dict['Source'] = z[p]
+                found = True
+                break
+            continue
+        if found is False:
+            user_input = input(f'Please enter the correct Hakuneko connector for the "{line[-1]}" extension: ')
+            extensions_dict['Source'] = user_input
+        extensions_dict_list.append(extensions_dict)
+
     for i in x['mangas']:
         manga = {'name': '', 'url': '', 'source': ''}
         manga['name'] = i['manga'][1]
         manga['url'] = i['manga'][0]
 
-        for l in random_list:
+        for l in extensions_dict_list:
             if str(i['manga'][2]) == str(l['id']):
                 manga['source'] = l['Source']
             
