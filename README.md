@@ -1,8 +1,10 @@
 # Tachiyomi Backup To Hakuneko DB
-Converts a legacy Tachiyomi backup to a Hakuneko database file. NOTE: Some sources will have to be manually changed/entered &amp; Chapters read is not kept.
+Converts a legacy Tachiyomi backup to a Hakuneko database file. NOTE: Some sources will have to be manually changed &amp; Chapters read is not kept.
 
 # Issues:
-- Due to the name differences used in Tachiyomi's Extensions and Hakuneko's sources, matching them is not always accurate and would cause more issues hence why some need to be manually changed. (`Hakuneko-connector-list.json` has a list of Hakuneko Connecter:Connector Key pairs for easier matching, however does not include the templates folder so not all of the entries are in there. In cases where you can't find a match inside of the file you can search the website inside of Hakuneko and hover over it and it will give you the connector name and key)
+- Due to the name differences used in Tachiyomi's Extensions and Hakuneko's sources, matching them is not always accurate and is why some need to be manually changed. 
+
+(`Hakuneko-connector-list.json` has a list of Hakuneko connecters for easier matching, however does not include all of them. In cases where you can't find a match inside of the file you can search the website inside of Hakuneko and hover over it and it will give you the 'id' for it.)
   - *Note: Hakuneko-connector-list.json can be generated with the `HakuNeko-Connectors-Keys.py` file.*
 
 - Due to the way Hakuneko handles chapter bookmarks it requires a chapter-name which can't be gotten from the Tachiyomi legacy backup. Even with chapter names I would sometimes run into issues where it would ignore the entry in hakuneko.chaptermarks.
@@ -16,7 +18,3 @@ Converts a legacy Tachiyomi backup to a Hakuneko database file. NOTE: Some sourc
   - *Note: From my expierence only the key connector's name matters. However this may cause issues elsewhere.*
 - After you finish editing the file you can find the location of the hakuneko config folder at https://hakuneko.download/docs/install/#user-data and then you can move and replace your existing `hakuneko.bookmarks`
   - **NOTE:** *Anything inside of your pre-existing bookmarks file will be lost if you replace it. You can move the file to somewhere else or add .backup at the end of the name to keep it.*
-
-# Todo:
-- Find 80% confidence matches for sources and confirm with the user before writing, (Additionally if incorrect take a user input)
-- Cleanup mess
