@@ -55,7 +55,7 @@ def hakuneko_db_creator(backup):
         db_dict['key']['manga'] = x['url']
         db_list.append(db_dict)
     with open('hakuneko.bookmarks', 'w') as file:
-        json.dump(db_list, file, indent=4)
+        json.dump(db_list, file, ensure_ascii=False, indent=4)
 
 class main():
     file_location = input('Tachiyomi Legacy Backup Location: ')
