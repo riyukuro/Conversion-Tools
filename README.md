@@ -1,5 +1,5 @@
 # Hakuneko migrate Mangadex legacy IDs to new UUIDs
-Convert your legacy IDs to new UUIDs.
+Convert your legacy Mangadex IDs to new UUIDs.
 
 # Usage
 - Download the `HN-Mangadex-Legacy-Converter.py` file
