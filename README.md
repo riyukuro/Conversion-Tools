@@ -1,10 +1,14 @@
 # Hakuneko migrate Mangadex legacy IDs to new UUIDs
 Convert your legacy Mangadex IDs to new UUIDs.
+
+**WARNING: MAY CLEAR YOUR CHAPTER BOOKMARKS**
+- Make a copy of your `hakuneko.chaptermarks` file just in case.
 **NOTE: CURRENTLY UNTESTED**
+
 # Usage
 - Download the `HN-Mangadex-Legacy-Converter.py` file
 - Find where your hakuneko.bookmarks file is located (Folder listed on https://hakuneko.download/docs/install/ under application)
-- Make a copy of your `hakuneko.bookmarks` rename it to `hakuneko.bookmarks.backup` just in case something goes wrong.
+- Make a copy of your `hakuneko.bookmarks` rename it to `hakuneko.bookmarks.backup` just in case something goes wrong. (Reccomended to do the same with your `hakuneko.chaptermarks` file as well. *(See warning above)*
 - Move your `hakuneko.bookmarks` file to the same directory as `HN-Mangadex-Legacy-Converter.py`
 - Inside of command prompt run `python HN-Mangadex-Legacy-Converter.py` *(Note: May need to use `python3` instead of `python`)*
 - Wait for it to complete.
