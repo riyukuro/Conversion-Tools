@@ -3,6 +3,7 @@ Convert your legacy Mangadex IDs to new UUIDs.
 
 **WARNING: MAY CLEAR YOUR CHAPTER BOOKMARKS**
 - Make a copy of your `hakuneko.chaptermarks` file just in case.
+
 **NOTE: CURRENTLY UNTESTED**
 
 # Usage
