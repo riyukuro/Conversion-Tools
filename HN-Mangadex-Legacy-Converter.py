@@ -4,7 +4,7 @@ import requests
 class main():
     legacy_mapping = 'https://api.mangadex.org/legacy/mapping'
 
-    hakuneko = open('hakuneko.bookmarks', 'r')
+    hakuneko = open('hakuneko.bookmarks', 'r', encoding="utf-8")
     hakuneko_data = json.load(hakuneko)
     hakuneko.close()
 
@@ -21,6 +21,6 @@ class main():
             i['key']['manga'] = f'/manga/{new_id}'
             print(i['key'])
 
-    hakuneko = open('hakuneko.bookmarks', 'w')
-    hakuneko.write(str(json.dump(hakuneko_data, hakuneko, indent=4)))
+    hakuneko = open('hakuneko.bookmarks1', 'w')
+    json.dump(hakuneko_data, hakuneko, ensure_ascii=False, indent=4)
     hakuneko.close()
