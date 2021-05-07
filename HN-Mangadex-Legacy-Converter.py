@@ -8,18 +8,20 @@ class main():
     hakuneko_data = json.load(hakuneko)
     hakuneko.close()
 
+    total_entries = len(hakuneko_data)
+    count = 0
+
     for i in hakuneko_data:
-        if i['key']['connector'] != 'mangadex':
-            continue
-        else:
-            mangaid = int(i['key']['manga'].replace('/', '').replace('manga', ''))
-            data = {"type": "manga", "ids": [mangaid]}
-            post_data = requests.post(legacy_mapping, json=data)
-            f = json.loads(post_data.text)
-            for z in f:
-                new_id = str(z['data']['attributes']['newId'])
+        count += 1
+        
+        if i['key']['connector'] == 'mangadex':
+            mangaid = i['key']['manga'].replace('/', '').replace('manga', '')
+            data = {"type": "manga", "ids": [int(mangaid)]}
+            post_data = json.loads(requests.post(legacy_mapping, json=data).text)
+            for data in post_data: new_id = str(data['data']['attributes']['newId'])
             i['key']['manga'] = f'/manga/{new_id}'
-            print(i['key'])
+
+        print(f'Progress: {count}/{total_entries}')
 
     hakuneko = open('hakuneko.bookmarks', 'w')
     json.dump(hakuneko_data, hakuneko, ensure_ascii=False, indent=4)
