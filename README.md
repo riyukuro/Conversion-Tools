@@ -4,12 +4,12 @@ Convert your legacy Mangadex IDs to new UUIDs.
 **WARNING: MAY CLEAR YOUR CHAPTER BOOKMARKS**
 - Make a copy of your `hakuneko.chaptermarks` file just in case.
 
-**NOTE: CURRENTLY UNTESTED**
+**NOTE: CURRENTLY UNTESTED** *(The Mangadex connector for Hakuneko hasn't been updated yet.)*
 
 # Usage
 - Download the `HN-Mangadex-Legacy-Converter.py` file
 - Find where your hakuneko.bookmarks file is located (Folder listed on https://hakuneko.download/docs/install/ under application)
-- Make a copy of your `hakuneko.bookmarks` rename it to `hakuneko.bookmarks.backup` just in case something goes wrong. (Reccomended to do the same with your `hakuneko.chaptermarks` file as well. *(See warning above)*
+- Make a copy of your `hakuneko.bookmarks` rename it to `hakuneko.bookmarks.backup` just in case something goes wrong. Reccomended to do the same with your `hakuneko.chaptermarks` file as well. *(See warning above)*
 - Move your `hakuneko.bookmarks` file to the same directory as `HN-Mangadex-Legacy-Converter.py`
 - Inside of command prompt run `python HN-Mangadex-Legacy-Converter.py` *(Note: May need to use `python3` instead of `python`)*
 - Wait for it to complete.
@@ -18,6 +18,7 @@ Convert your legacy Mangadex IDs to new UUIDs.
 -------------------------------------------------------------
 # Tachiyomi-MD-Old-Ids-To-UUIDs
 Convert your Tachiyomi Legacy Json backups Mangadex old IDs to new Mangadex UUIDs.
+
 **This is Currently untested!** *(It pulls all of the chapter ids from mangadex at once and i'm not sure if they stay in order or not)*
 
 -------------------------------------------------------------
