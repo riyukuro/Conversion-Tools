@@ -19,7 +19,7 @@ Convert your legacy Mangadex IDs to new UUIDs.
 # Tachiyomi-MD-Old-Ids-To-UUIDs
 Convert your Tachiyomi Legacy Json backups Mangadex old IDs to new Mangadex UUIDs.
 
-**This is Currently untested!** *(It pulls all of the chapter ids from mangadex at once and i'm not sure if they stay in order or not)*
+**This is Currently untested!** *(It pulls all of the chapter ids for a manga from mangadex at once and i'm not sure if they stay in order or not)*
 
 -------------------------------------------------------------
 
