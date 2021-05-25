@@ -19,7 +19,7 @@ class main():
             data = {"type": "manga", "ids": [int(mangaid)]}
             post_data = json.loads(requests.post(legacy_mapping, json=data).text)
             for data in post_data: new_id = str(data['data']['attributes']['newId'])
-            i['key']['manga'] = f'/manga/{new_id}'
+            i['key']['manga'] = str(new_id)
 
         print(f'Progress: {count}/{total_entries}')
 
